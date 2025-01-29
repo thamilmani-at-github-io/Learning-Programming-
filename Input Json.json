@@ -1,0 +1,26 @@
+[
+  {
+    "empid": "emp001",
+    "Name": "Abinesh",
+    "Dep": "support-team",
+    "Salary": 30000
+  },
+  {
+    "empid": "emp002",
+    "Name": "Ameeth",
+    "Dep": "support-team",
+    "Salary": 32000
+  },
+  {
+    "empid": "emp003",
+    "Name": "Aravind",
+    "Dep": "Developer",
+    "Salary": 15000
+  },
+  {
+    "empid": "emp004",
+    "Name": "Arun",
+    "Dep": "Developer",
+    "Salary": 14000
+  }
+]

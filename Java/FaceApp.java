@@ -25,3 +25,8 @@ public class FaceApp extends Applet{
         g.fillOval(215, 123, 30, 30);
     }
 }
+
+
+/*Javac Program.java
+  appletviewer Program.java
+ */

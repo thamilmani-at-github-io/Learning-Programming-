@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class TCPClient {
+public class TCPClient {
     public static void main(String args[]) {
         try {
             String fromServer;

@@ -2,16 +2,17 @@ import java.io.*;
 import java.net.*;
 
 public class TCPClient {
-    public static void main(String args[]) {
-        try {
+    public static void main(String args[]) throws IOException {
             String fromServer;
             String toServer;
-            Socket clientSocket = new Socket("192.168.3.103", 5000);
+            Socket clientSocket = new Socket("localhost", 5000);
             System.out.println("Connected to server on port: " + clientSocket.getPort());
-            
-            BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in));
+
             PrintWriter outToServer = new PrintWriter(clientSocket.getOutputStream(), true);
             BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+
+            InputStreamReader in = new InputStreamReader(System.in);            
+            BufferedReader inFromUser = new BufferedReader(in);
             
             while (true) {
                 fromServer = inFromServer.readLine();
@@ -40,8 +41,5 @@ public class TCPClient {
                     }
                 }
             }
-        } catch (IOException ex) {
-            System.err.println("Error: " + ex.getMessage());
-        }
     }
 }

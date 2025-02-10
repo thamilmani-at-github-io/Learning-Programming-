@@ -8,15 +8,22 @@ public class server{
         Socket s = ss.accept();
         System.out.println("Client Connected ");
 
-        InputStreamReader in = new InputStreamReader(s.getInputStream());
-        BufferedReader bf = new BufferedReader(in);        
-        String str = bf.readLine();
-        System.out.println("client : "+str);
+        boolean con = true;
 
-        PrintWriter pw = new PrintWriter(s.getOutputStream());
-        System.out.println("Enter the Value : ");
-        String value = input.next();
-        pw.println(value);
-        pw.flush();
+        while (con) {
+            InputStreamReader in = new InputStreamReader(s.getInputStream());
+            BufferedReader bf = new BufferedReader(in);        
+            String str = bf.readLine();
+            System.out.println("client : "+str);
+
+            PrintWriter pw = new PrintWriter(s.getOutputStream());
+            System.out.println("Enter the Value : ");
+            String value = input.next();
+            pw.println(value);
+            pw.flush();
+
+            System.out.println("If You Need Communicate again : ");
+            con = input.nextBoolean();
+        }
     }
 }

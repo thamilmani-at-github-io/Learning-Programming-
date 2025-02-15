@@ -16,14 +16,23 @@ public class server{
             String str = bf.readLine();
             System.out.println("client : "+str);
 
+            if(str == "end"){
+                System.out.println(str.length());
+                System.out.println("if statement End is false now");
+                con = false;
+            }
+            else{
+                System.out.println(str.length());
+                System.out.println("else statment End is true now");
+                con = true;
+            }
+
             PrintWriter pw = new PrintWriter(s.getOutputStream());
             System.out.println("Enter the Value : ");
             String value = input.next();
             pw.println(value);
             pw.flush();
 
-            System.out.println("If You Need Communicate again : ");
-            con = input.nextBoolean();
         }
     }
 }

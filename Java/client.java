@@ -18,9 +18,6 @@ public class client{
             BufferedReader bf = new BufferedReader(in);        
             String str = bf.readLine();
             System.out.println("server : "+str);
-
-            System.out.println("If You Need Communicate again : ");
-            con = input.nextBoolean();
         }
     }
 }

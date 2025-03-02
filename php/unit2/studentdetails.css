@@ -1,0 +1,15 @@
+table{
+    padding: 50px;
+    table-layout: auto;
+    width: 100%;
+}
+td{
+    text-align: center;
+    padding-bottom: 2%;
+}
+body{
+    background-color: aliceblue;
+}
+.heading{
+    text-align: center;
+}

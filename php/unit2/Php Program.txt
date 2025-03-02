@@ -1,0 +1,7 @@
+1. Prime Number
+2. Generate Prime Number
+3. Armstrong Number
+4. Generate Armstrong Number
+5. Perfect Number
+6. Generate Perfect Number
+7. 

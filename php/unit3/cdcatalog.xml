@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <CD>
+        <Artist>Empire</Artist>
+        <Title>ThamilMani</Title>
+    </CD>
+    <CD>
+        <Artist>Empire</Artist>
+        <Title>Kavin</Title>
+    </CD>
+    <CD>
+        <Artist>Empire</Artist>
+        <Title>Mukesh</Title>
+    </CD>
+</catalog>

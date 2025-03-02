@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>community</title>
+    <!-- <link rel="stylesheet" href="C:\xampp\htdocs\css\bootstrap.min.css">
+    <script src="C:\xampp\htdocs\jsbootstrap.min.js"></script> -->
+</head>
+<body>
+    <div class="container">
+        <h1>Community Based info will be listed here ...</h1>
+        <form action="">
+            <select name="community" onchange="showCommunity(this.value)">
+                <option value="">Select a community</option>
+                <option value="ST">ST</option>
+                <option value="SC">SC</option>
+                <option value="OC">OC</option>          
+            </select>
+        </form><br>    
+        <script>
+            function showCommunity(str){
+                if(str == ""){
+                    document.getElementById("txthint").innerHTML = "";
+                    return;
+                }
+                const xhttp = new XMLHttpRequest();
+                xhttp.onload = function(){
+                    document.getElementById("txthint").innerHTML = this.responseText;
+                }
+                xhttp.open("GET","GetCommunity.php?q="+str);            
+                xhttp.send();
+            }
+        </script>
+        <div id="txthint">
+        </div>
+    </div>
+</body>
+</html>

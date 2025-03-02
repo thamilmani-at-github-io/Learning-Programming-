@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Data From Xml</title>
+    <style>
+        table,th,td{
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th,td{
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button type="button" onclick="loadXMLDoc()">Get My CD Collections</button><br><br>
+    <table id="demo"></table>
+    <script>
+        function loadXMLDoc(){
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function(){
+                const xmlDoc = xhttp.responseXML;
+                const cd = xmlDoc.getElementsByTagName("CD");
+                myfunctions(cd);
+            }
+            xhttp.open("GET","cdcatalog.xml");
+            xhttp.send();
+        }
+        function myfunctions(cd){
+            let table = "<tr><th>Artist</th><th>Title</th></tr>";
+            for(let i=0;i<cd.length;i++){
+                table = table + "<tr><td>"+cd[i].getElementsByTagName("Artist")[0].childNodes[0].nodeValue+"</td><td>"+cd[i].getElementsByTagName("Title")[0].childNodes[0].nodeValue+"</td></tr>";
+            }
+            document.getElementById("demo").innerHTML = table;
+        }
+    </script>
+</body>
+</html>

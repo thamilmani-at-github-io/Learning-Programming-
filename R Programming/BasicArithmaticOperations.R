@@ -20,5 +20,13 @@ print(a-b)
 print(a*b)
 print(b/a)
 
-a=c('a',23,"Vidyalaya",4.4)
-print(a)
+a<-c('a',23,"Vidyalaya",4.4)
+cat("Access the First Element : ",a[1],"\n")
+print(paste("Access the First Element : ",a[1]))
+print(class(a))
+
+
+for(i in 1:20) {
+  print(i)
+}
+

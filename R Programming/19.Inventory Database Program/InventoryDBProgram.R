@@ -7,7 +7,7 @@ drv <- dbDriver("MySQL")
 mysqlconnection = dbConnect(drv,username='root',password='',dbname='test1',host='localhost')
 dbListTables(mysqlconnection)
 
-ItemMaster <- dbSendQuery(mysqlconnection,"select * from Items")
+ItemMaster <- dbSendQuery(mysqlconnection,"select * from items")
 data.frame <- fetch(ItemMaster)
 print(data.frame)
 

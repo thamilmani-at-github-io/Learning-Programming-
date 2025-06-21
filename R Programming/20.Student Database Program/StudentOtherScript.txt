@@ -1,0 +1,110 @@
+CREATE TABLE Student(
+	StudentID int AUTO_INCREMENT PRIMARY KEY,
+    StudentName varchar(500),
+    Department  varchar(50),
+    year varchar(50),
+    Semester varchar(50)
+)
+
+CREATE TABLE Department(
+    DeptID int AUTO_INCREMENT PRIMARY KEY,
+    DepartmentName varchar(50)
+)
+
+CREATE TABLE subject(
+    SubjectID int AUTO_INCREMENT PRIMARY KEY,
+    SubjectName varchar(100),
+    years varchar(50),
+    Semester varchar(50),
+    DeptID int,
+    FOREIGN KEY (DeptID) REFERENCES Department(DeptID)
+)
+
+CREATE TABLE Transactions(
+    UID int AUTO_INCREMENT PRIMARY KEY,
+    StudentID int,
+    SubjectID int,
+    DeptID int,
+    years varchar(50),
+    Semester varchar(50),
+    mark int,
+    TestName varchar(50),
+    FOREIGN KEY (StudentID) REFERENCES student(StudentID),
+    FOREIGN KEY (SubjectID) REFERENCES subject(SubjectID),
+    FOREIGN KEY (DeptID) REFERENCES Department(DeptID)
+)
+
+INSERT INTO Department (DepartmentName) VALUES
+('Computer Science'),
+('Mechanical Engineering'),
+('Electrical Engineering'),
+('Civil Engineering'),
+('Electronics'),
+('Biotechnology'),
+('Information Technology'),
+('Mathematics'),
+('Physics'),
+('Chemistry');
+
+
+INSERT INTO Student (StudentName, Department, year, Semester) VALUES
+('Thamil Mani', 'Computer Science', '2024', 'I'),
+('Mukesh', 'Mechanical Engineering', '2024', 'II'),
+('Sri Hari', 'Electrical Engineering', '2025', 'III'),
+('Dhamodharan', 'Civil Engineering', '2023', 'IV'),
+('Divakaran', 'Electronics', '2025', 'V'),
+('Kavin', 'Biotechnology', '2024', 'VI'),
+('Naveen', 'Information Technology', '2023', 'VII'),
+('Pranav', 'Mathematics', '2025', 'VIII'),
+('Rahul', 'Physics', '2024', 'III'),
+('Sathish', 'Chemistry', '2023', 'II');
+
+
+INSERT INTO subject (SubjectName, years, Semester, DeptID) VALUES
+('Data Structures', '2024', 'I', 1),
+('Thermodynamics', '2024', 'II', 2),
+('Circuit Analysis', '2025', 'III', 3),
+('Structural Analysis', '2023', 'IV', 4),
+('Analog Electronics', '2025', 'V', 5),
+('Genetic Engineering', '2024', 'VI', 6),
+('Web Development', '2023', 'VII', 7),
+('Linear Algebra', '2025', 'VIII', 8),
+('Quantum Mechanics', '2024', 'III', 9),
+('Organic Chemistry', '2023', 'II', 10);
+
+INSERT INTO Transactions (StudentID, SubjectID, DeptID, years, Semester, mark, TestName) VALUES
+(1, 1, 1, '2024', 'I', 88, 'Midterm'),        
+(2, 2, 2, '2024', 'II', 76, 'Final'),         
+(3, 3, 3, '2025', 'III', 91, 'Quiz'),         
+(4, 4, 4, '2023', 'IV', 67, 'Final'),        
+(5, 5, 5, '2025', 'V', 85, 'Midterm'),     
+(6, 6, 6, '2024', 'VI', 72, 'Quiz'),          
+(7, 7, 7, '2023', 'VII', 94, 'Final'),       
+(8, 8, 8, '2025', 'VIII', 89, 'Midterm'),   
+(9, 9, 9, '2024', 'III', 90, 'Final'),        
+(10, 10, 10, '2023', 'II', 78, 'Midterm');    
+
+INSERT INTO Transactions (StudentID, SubjectID, DeptID, years, Semester, mark, TestName) VALUES
+(1, 2, 1, '2024', 'II', 82, 'Final'),
+(2, 3, 2, '2024', 'III', 75, 'Quiz'),
+(3, 4, 3, '2025', 'IV', 88, 'Midterm'),
+(4, 5, 4, '2023', 'V', 70, 'Quiz'),
+(5, 6, 5, '2025', 'VI', 90, 'Final'),
+(6, 7, 6, '2024', 'VII', 85, 'Midterm'),
+(7, 8, 7, '2023', 'VIII', 92, 'Quiz'),
+(8, 9, 8, '2025', 'III', 80, 'Final'),
+(9, 10, 9, '2024', 'IV', 77, 'Midterm'),
+(10, 1, 10, '2023', 'V', 88, 'Final'),
+(1, 3, 1, '2024', 'III', 79, 'Quiz'),
+(2, 4, 2, '2024', 'IV', 84, 'Midterm'),
+(3, 5, 3, '2025', 'V', 91, 'Final'),
+(4, 6, 4, '2023', 'VI', 68, 'Quiz'),
+(5, 7, 5, '2025', 'VII', 85, 'Midterm'),
+(6, 8, 6, '2024', 'VIII', 90, 'Final'),
+(7, 9, 7, '2023', 'III', 78, 'Quiz'),
+(8, 10, 8, '2025', 'IV', 82, 'Midterm'),
+(9, 1, 9, '2024', 'V', 88, 'Final'),
+(10, 2, 10, '2023', 'VI', 76, 'Quiz');
+
+
+

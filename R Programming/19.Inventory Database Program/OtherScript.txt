@@ -13,3 +13,40 @@ CREATE TABLE TRANSACTION(
     ItemQty DECIMAL(18,3),
     FOREIGN KEY (ItemCode) REFERENCES Items(ItemCode)
 );
+
+INSERT INTO Items (ItemCode, ItemName, ItemRate) VALUES
+('MAT001', 'Plywood Sheet 18mm',     1450.500),
+('MAT002', 'Mild Steel Rod 12mm',    980.000),
+('MAT003', 'Cement Bag 50kg',         370.250),
+('MAT004', 'Iron Nail Pack 1kg',      120.500),
+('MAT005', 'Wooden Plank 6ft',       860.750),
+('MAT006', 'TMT Bar 10mm',           1125.300),
+('MAT007', 'Laminated Board 8x4ft',  1620.000),
+('MAT008', 'Galvanized Iron Sheet',  1350.400),
+('MAT009', 'Hardwood Beam 4x4in',    2450.000),
+('MAT010', 'Binding Wire 1kg',        210.750);
+
+INSERT INTO `TRANSACTION` (ItemCode, ItemName, ItemQty) VALUES
+('MAT001', 'Plywood Sheet 18mm',      5.000),
+('MAT002', 'Mild Steel Rod 12mm',    12.000),
+('MAT003', 'Cement Bag 50kg',        20.000),
+('MAT004', 'Iron Nail Pack 1kg',     15.500),
+('MAT005', 'Wooden Plank 6ft',        7.000),
+('MAT006', 'TMT Bar 10mm',            9.000),
+('MAT007', 'Laminated Board 8x4ft',   4.000),
+('MAT008', 'Galvanized Iron Sheet',   6.000),
+('MAT009', 'Hardwood Beam 4x4in',     3.000),
+('MAT010', 'Binding Wire 1kg',       10.000),
+('MAT001', 'Plywood Sheet 18mm',      2.500),
+('MAT002', 'Mild Steel Rod 12mm',     8.000),
+('MAT003', 'Cement Bag 50kg',        25.000),
+('MAT004', 'Iron Nail Pack 1kg',     18.000),
+('MAT005', 'Wooden Plank 6ft',        5.000),
+('MAT006', 'TMT Bar 10mm',            6.750),
+('MAT007', 'Laminated Board 8x4ft',   2.000),
+('MAT008', 'Galvanized Iron Sheet',   3.000),
+('MAT009', 'Hardwood Beam 4x4in',     1.000),
+('MAT010', 'Binding Wire 1kg',        7.500);
+
+
+

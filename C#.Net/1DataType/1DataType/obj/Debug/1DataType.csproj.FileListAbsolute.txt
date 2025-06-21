@@ -1,0 +1,6 @@
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\bin\Debug\1DataType.exe.config
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\bin\Debug\1DataType.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\bin\Debug\1DataType.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\obj\Debug\1DataType.csproj.CoreCompileInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\obj\Debug\1DataType.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\1DataType\1DataType\obj\Debug\1DataType.pdb

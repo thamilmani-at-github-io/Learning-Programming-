@@ -1,6 +1,6 @@
 
 getwd()
-setwd("D:/ThamilMani/java/Learning-Programming-/R Programming")
+setwd("D:/ThamilMani/Learning-Programming-/R Programming")
 getwd()
 
 data=read.csv("Book1.csv")

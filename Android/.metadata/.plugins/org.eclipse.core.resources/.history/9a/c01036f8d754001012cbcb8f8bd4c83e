@@ -1,7 +1,0 @@
-package com.example.animationimageprogram;
-
-import android.view.View.OnClickListener;
-
-public interface OnClickListener extends OnClickListener {
-
-}

@@ -1,0 +1,856 @@
+Sno,Regno,Sattvic,Rajasic,Tamasic,Number,Letter,Verbal ,Logical,Non Verbal,analytical,Attitude,Apptitude,gunas,Mentalability,height,weight,BMI,Type,Att.Value,PhyValue,Total,Gender,
+,77,8,8,8,5,2,0,0,0,0,4,7,Rajasic,Low,5.5,60,21.34990496,Normal,40,3,47,M,test
+,78,0,0,0,5,5,5,2,0,0,0,17,Rajasic,Medium,5.11,57,23.49649755,Normal,40,3,57,M,A.Mohan
+,79,0,0,2,5,5,4,0,0,0,-2,14,Tamasic,Medium,5.9,62,19.1715727,Normal,10,3,24,M,V.Karthi
+,81,4,4,8,5,5,5,0,0,0,-2,15,Tamasic,Medium,5.2,52,20.69982772,Normal,10,3,25,M,N.MURUGESH
+,82,-4,0,-4,5,5,5,4,0,0,0,19,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,59,M,RAJA
+,83,6,6,0,5,5,5,2,0,0,9,17,Rajasic,Medium,5.2,52,20.69982772,Normal,40,3,57,M,Velmani Karnan.B
+,84,0,0,4,5,5,3,0,0,0,-4,13,Tamasic,Medium,6.1,68,19.67067746,Normal,10,3,23,M,k.dhanapal
+,89,4,0,0,5,5,5,5,0,0,4,20,Rajasic,Medium,5.8,70,22.39814891,Normal,40,3,60,M,NANDHAGOPAL.R
+,93,8,4,2,5,5,4,0,0,0,8,14,Rajasic,Medium,5.6,62,21.28069024,Normal,40,3,54,M,G.Gowtham
+,98,2,8,6,5,5,2,0,0,0,0,12,Rajasic,Medium,5.6,78,26.77248127,Overweight,40,1,52,M,M.Manoj
+,101,-2,0,2,5,5,5,0,0,0,-4,15,Tamasic,Medium,5.6,55,18.87803166,Normal,10,3,25,M,Krishnamoorthy.D
+,103,4,6,6,5,5,5,2,0,0,1,17,Rajasic,Medium,5.5,62,22.06156846,Normal,40,3,57,M,G.Rajasekar
+,104,-2,-2,0,5,5,5,0,0,0,-3,15,Tamasic,Medium,5.9,67,20.71766728,Normal,10,3,25,M,Gopal.P
+,107,0,4,-2,5,5,5,4,0,0,4,19,Rajasic,Medium,5.2,46,18.31138606,Overweight,40,1,59,M,Dhinakaran.p
+,110,-8,10,-4,5,5,5,3,0,0,1,18,Rajasic,Medium,6.1,55,15.91010677,Overweight,40,1,58,M,Arulraju
+,112,-2,0,4,5,5,5,4,0,0,-6,19,Tamasic,Medium,5.5,64,22.77323196,Normal,10,3,29,M,Amaresan  S
+,113,0,6,0,5,5,5,4,0,0,3,19,Rajasic,Medium,5.4,61,22.51709655,Normal,40,3,59,M,PritamDas
+,114,6,6,6,5,5,5,3,0,0,3,18,Rajasic,Medium,5.1,86,35.59001522,Overweight,40,1,58,M,M.sasikumar
+,115,0,4,-2,5,5,1,0,0,0,4,11,Rajasic,Medium,6.2,76,21.28140457,Normal,40,3,51,M,G.PRANESH
+,117,-2,4,0,5,5,5,5,2,0,0,22,Rajasic,High,6,60,17.93985069,UnderWeight,40,1,62,M,varun kumar R
+,118,0,2,-2,5,5,5,2,0,0,3,17,Rajasic,Medium,5.9,65,20.09922945,Normal,40,3,57,M,Puspharaj.S
+,121,-6,2,-4,5,5,5,4,0,0,-1,19,Tamasic,Medium,5.5,59,20.99407321,Normal,10,3,29,M,YUVARAJ
+,122,0,0,-6,5,5,5,4,0,0,6,19,Rajasic,Medium,5.8,63,20.15833401,Normal,40,3,59,M,V.JAGAN
+,123,-4,4,-4,5,5,5,3,0,0,2,18,Rajasic,Medium,5.4,46,16.9801056,UnderWeight,40,1,58,M,PAVALAMUTHURAJA.G
+,124,2,10,6,5,5,0,0,0,0,1,10,Rajasic,Medium,5.2,59,23.486343,Normal,40,3,50,M,GANESAN.V
+,126,4,6,8,5,5,3,0,0,0,-1,13,Tamasic,Medium,5.5,67,23.8407272,Normal,10,3,23,M,MANOJ KUMAR.M
+,127,4,6,8,5,5,1,0,0,0,-1,11,Tamasic,Medium,5.8,95,30.3974878,Overweight,10,1,21,M,P.C.SUBRAMANI
+,128,2,2,-4,5,4,0,0,0,0,7,9,Rajasic,Low,5.4,55,20.30230017,Normal,40,3,49,M,M.GOPINATH
+,130,-2,0,-6,5,5,5,1,0,0,4,16,Rajasic,Medium,5.9,55,17.0070403,UnderWeight,40,1,56,M,kAVIARASAN.A
+,131,-2,2,-4,5,3,0,0,0,0,3,8,Rajasic,Low,5.1,60,24.83024318,Normal,40,3,48,M,NAGARAJ.P
+,133,0,4,0,5,5,0,0,0,0,2,10,Rajasic,Medium,5.5,57,20.28240971,Normal,40,3,50,M,SATHISH KUMAR.V
+,134,-4,0,-2,5,5,5,3,0,0,-2,18,Tamasic,Medium,5.7,57,18.88405336,Normal,10,3,28,M,R. JAYAPRAKASH SHARMA
+,135,0,4,-2,5,5,0,0,0,0,4,10,Rajasic,Medium,5.1,57,23.58873102,Normal,40,3,50,M,kaveri prasath.k
+,136,4,6,0,5,5,2,0,0,0,7,12,Rajasic,Medium,5.7,48,15.90236073,Overweight,40,1,52,M,MADHNA KUMAR.M
+,137,6,-6,0,5,5,4,0,0,0,3,14,Rajasic,Medium,5.3,53,20.30926494,Normal,40,3,54,M,R.MURALI
+,138,-6,4,4,5,5,0,0,0,0,-8,10,Tamasic,Medium,5.9,65,20.09922945,Normal,10,3,20,M,R.Rajesh
+,139,2,8,4,5,5,1,0,0,0,2,11,Rajasic,Medium,5.6,62,21.28069024,Normal,40,3,51,M,LOGANATHAN.S
+,140,4,6,2,5,5,1,0,0,0,5,11,Rajasic,Medium,5.7,65,21.53444682,Normal,40,3,51,M,MANIRATHINAM.P
+,142,-4,0,-4,5,5,1,0,0,0,0,11,Rajasic,Medium,5.4,54,19.93316744,Normal,40,3,51,M,ANANDHAN.R
+,145,-2,0,-6,5,5,5,1,0,0,4,16,Rajasic,Medium,5.9,66,20.40844836,Normal,40,3,56,M,LOGANATHAN.M
+,146,-4,8,2,5,5,5,0,0,0,-2,15,Tamasic,Medium,5.9,66,20.40844836,Normal,10,3,25,M,g.sarankumar
+,147,-4,8,-6,5,5,4,0,0,0,6,14,Rajasic,Medium,5.1,53,21.93338147,Normal,40,3,54,M,SADHASIVAM.C
+,148,4,10,4,5,5,5,3,0,0,5,18,Rajasic,Medium,5.11,66,27.20647085,Overweight,40,1,58,M,Vishnuvardhan.s
+,164,6,4,4,5,5,5,3,0,0,4,18,Rajasic,Medium,5.8,71,22.71812246,Normal,40,3,58,M,MURUGANANTHAM.M
+,166,2,2,2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.7,56,18.55275418,Normal,40,3,51,M,SACHIN.R
+,170,-2,8,-2,5,5,4,0,0,0,4,14,Rajasic,Medium,5.7,49,16.23365991,UnderWeight,40,1,54,M,KARTHIKEYAN.S
+,171,2,6,0,5,5,2,0,0,0,5,12,Rajasic,Medium,6,77,23.02280839,Normal,40,3,52,M,YABAS NIMAL ANAND.A
+,172,-2,2,2,5,5,5,3,0,0,-3,18,Tamasic,Medium,5.6,65,22.31040106,Normal,10,3,28,M,ANANDAKUMAR.M
+,173,0,0,-4,5,5,1,0,0,0,4,11,Rajasic,Medium,5.11,55,22.67205904,Normal,40,3,51,M,VIJAYARAGAVAN.C
+,174,-6,4,6,5,5,2,0,0,0,-10,12,Tamasic,Medium,5.5,64,22.77323196,Normal,10,3,22,M,ABHISHEK PAUL
+,185,6,6,4,5,5,5,1,0,0,5,16,Rajasic,Medium,5.4,60,22.14796382,Normal,40,3,56,M,Tanay Mukhopadhyay
+,188,-8,0,0,5,5,1,0,0,0,-8,11,Tamasic,Medium,5.6,56,19.2212686,Normal,10,3,21,M,A.JEEVA
+,189,0,6,0,5,0,0,0,0,0,3,5,Rajasic,Low,5.6,54,18.53479472,Normal,40,3,45,M,A.KARTHICK
+,190,4,4,-6,5,5,0,0,0,0,12,10,Sattvic,Medium,5.7,56,18.55275418,Normal,70,3,80,M,A.SANJEEV KUMAR
+,191,0,10,-2,5,5,0,0,0,0,7,10,Rajasic,Medium,5.7,50,16.56495909,UnderWeight,40,1,50,M,ANANDKUMAR.D
+,192,2,2,0,5,5,4,0,0,0,3,14,Rajasic,Medium,5.9,50,15.46094573,Overweight,40,1,54,M,ANBARASAN.S
+,193,4,8,0,5,5,5,2,0,0,8,17,Rajasic,Medium,5.6,68,23.34011187,Normal,40,3,57,M,ARAVIND.R
+,194,-4,6,-6,5,5,2,0,0,0,5,12,Rajasic,Medium,5.4,54,19.93316744,Normal,40,3,52,M,ARAVINDAN.S
+,195,6,8,-2,5,5,5,1,0,0,12,16,Sattvic,Medium,5.6,56,19.2212686,Normal,70,3,86,M,ARAVINDH.K
+,196,4,10,4,5,4,0,0,0,0,5,9,Rajasic,Low,5.5,50,17.79158747,UnderWeight,40,1,49,M,ARULKUMAR.M
+,197,0,6,-6,5,5,5,5,0,0,9,20,Rajasic,Medium,5.9,64,19.79001053,Normal,40,3,60,M,ARUN KUMAR A
+,198,0,4,-2,5,1,0,0,0,0,4,6,Rajasic,Low,5.8,64,20.47830757,Normal,40,3,46,M,ARUNKUMAR B
+,199,-2,4,-2,5,2,0,0,0,0,2,7,Rajasic,Low,5.9,67,20.71766728,Normal,40,3,47,M,ARUNKUMAR. A
+,200,-4,6,-4,5,5,1,0,0,0,3,11,Rajasic,Medium,5.7,59,19.54665173,Normal,40,3,51,M,ASWIN.S.M
+,201,6,4,-6,5,5,2,0,0,0,14,12,Sattvic,Medium,5.55,67,23.41309952,Normal,70,3,82,M,AYYAPPAN .A
+,202,-2,6,2,5,2,0,0,0,0,-1,7,Tamasic,Low,5.6,55,18.87803166,Normal,10,3,17,M,C.GOPINATH
+,203,0,6,-4,5,4,0,0,0,0,7,9,Rajasic,Low,5.3,45,17.24371551,UnderWeight,40,1,49,M,CHANDRA SEKARAN.S
+,204,2,8,-2,5,5,5,2,0,0,8,17,Rajasic,Medium,5.6,45,15.44566227,Overweight,40,1,57,M,CHANDRAMOHAN.K
+,205,-2,6,-8,5,4,0,0,0,0,9,9,Rajasic,Low,5.5,50,17.79158747,UnderWeight,40,1,49,M,D.BOOPATHI
+,206,4,8,0,5,5,5,3,0,0,8,18,Rajasic,Medium,5.9,50,15.46094573,Overweight,40,1,58,M,DEEPAK.V
+,207,-6,6,-4,5,5,3,0,0,0,1,13,Rajasic,Medium,5.1,74,30.62396658,Overweight,40,1,53,M,DINESH KUMAR.P
+,208,-2,6,-6,5,5,2,0,0,0,7,12,Rajasic,Medium,5.8,53,16.95859846,UnderWeight,40,1,52,M,ELANGO.P
+,209,-10,4,-6,5,5,2,0,0,0,-2,12,Tamasic,Medium,5.5,49,17.43575572,UnderWeight,10,1,22,M,G.VINOTHKUMAR
+,210,-6,2,-6,5,4,0,0,0,0,1,9,Rajasic,Low,5.2,49,19.50560689,Normal,40,3,49,M,GNANAPRAKASH.A
+,211,-4,2,-2,5,4,0,0,0,0,-1,9,Tamasic,Low,5.7,66,21.865746,Normal,10,3,19,M,GOKUL..R
+,212,-2,8,-2,5,5,3,0,0,0,4,13,Rajasic,Medium,5.5,46,16.36826047,UnderWeight,40,1,53,M,GOVINDARAJA.A
+,213,4,4,-6,5,5,5,5,1,0,12,21,Sattvic,High,5.4,53,19.56403471,Normal,70,3,91,M,GOWTHAM.V
+,214,-8,6,-4,5,5,2,0,0,0,-1,12,Tamasic,Medium,5.9,66,20.40844836,Normal,10,3,22,M,GUNAA.R
+,215,-4,4,-4,5,5,0,0,0,0,2,10,Rajasic,Medium,5.2,50,19.9036805,Normal,40,3,50,M,JAMEENDAR.K
+,216,-4,0,0,5,5,3,0,0,0,-4,13,Tamasic,Medium,5.2,55,21.89404855,Normal,10,3,23,M,JAYAKUMAR.R
+,217,10,2,-4,5,5,3,0,0,0,15,13,Sattvic,Medium,5.4,40,14.76530921,Overweight,70,1,83,M,JOHN CHRISTOPER M
+,218,-6,6,2,5,5,0,0,0,0,-5,10,Tamasic,Medium,5.8,67,21.43822824,Normal,10,3,20,M,K.ANAND KARTHIK RAJ
+,219,-6,6,-6,5,2,0,0,0,0,3,7,Rajasic,Low,5.8,59,18.87843979,Normal,40,3,47,M,K.KAVIN PRABHU
+,220,0,6,-4,5,5,1,0,0,0,7,11,Rajasic,Medium,5.11,93,38.33639074,Overweight,40,1,51,M,KARTHICK KRISHNAN.A
+,221,4,2,0,5,5,5,1,0,0,5,16,Rajasic,Medium,5.8,50,15.99867779,Overweight,40,1,56,M,KARTHIK.R
+,222,0,4,-8,5,5,5,3,0,0,10,18,Rajasic,Medium,5.1,47,19.45035715,Normal,40,3,58,M,KARTHIKEYAN.R
+,223,6,2,-2,5,5,4,0,0,0,9,14,Rajasic,Medium,5.4,50,18.45663652,Overweight,40,1,54,M,KOTTAI ESWARAN.S
+,224,-2,8,-8,5,5,5,3,0,0,10,18,Rajasic,Medium,5.9,47,14.53328899,Overweight,40,1,58,M,KRISHNA KUMAR.G
+,225,8,6,-10,5,5,5,1,0,0,21,16,Sattvic,Medium,6,51,15.24887309,Overweight,70,1,86,M,LOGESHWARAN . D
+,226,0,4,-4,5,3,0,0,0,0,6,8,Rajasic,Low,5.7,57,18.88405336,Normal,40,3,48,M,M.SATHISH  KUMAR
+,227,-4,4,-4,5,5,0,0,0,0,2,10,Rajasic,Medium,5.8,46,14.71878357,Overweight,40,1,50,M,M.SENTHAMIL SELVAN
+,228,-2,6,-10,5,4,0,0,0,0,11,9,Sattvic,Low,5.4,46,16.9801056,UnderWeight,70,1,79,M,MANIRAJ.S
+,229,0,8,-2,5,5,1,0,0,0,6,11,Rajasic,Medium,5.3,49,18.77649022,Normal,40,3,51,M,MANOJ.M
+,230,2,10,-2,5,5,5,1,0,0,9,16,Rajasic,Medium,5.1,55,22.76105624,Normal,40,3,56,M,MARAGATHISHWARAN.B
+,231,-2,8,-6,5,4,0,0,0,0,8,9,Rajasic,Low,5.6,56,19.2212686,Normal,40,3,49,M,MOHAMED RAFIQ.K
+,232,-4,6,-4,5,5,2,0,0,0,3,12,Rajasic,Medium,5.1,53,21.93338147,Normal,40,3,52,M,MUJIPUR  RAHUMAN
+,233,-4,-2,-4,5,5,1,0,0,0,-1,11,Tamasic,Medium,5.6,54,18.53479472,Normal,10,3,21,M,N.RANJITH KUMAR
+,234,4,8,-6,5,5,4,0,0,0,14,14,Sattvic,Medium,5.6,82,28.14542902,Overweight,70,1,84,M,N.SIVAKUMAR
+,235,-2,8,-2,5,5,1,0,0,0,4,11,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,51,M,NAGARAJ S
+,236,-8,8,-10,5,5,4,0,0,0,6,14,Rajasic,Medium,5.6,49,16.81861003,UnderWeight,40,1,54,M,NARENDRAKUMAR.D
+,237,0,8,-2,5,5,5,1,0,0,6,16,Rajasic,Medium,5.4,41,15.13444194,Overweight,40,1,56,M,p.chandran
+,238,0,4,4,5,5,0,0,0,0,-2,10,Tamasic,Medium,5.4,48,17.71837106,UnderWeight,10,1,20,M,P.PRABHU
+,239,4,2,0,5,3,0,0,0,0,5,8,Rajasic,Low,5.4,45,16.61097287,UnderWeight,40,1,48,M,P.VISVANATHAN
+,240,6,10,-2,5,5,4,0,0,0,13,14,Sattvic,Medium,5.11,57,23.49649755,Normal,70,3,84,M,PARTHIBAN P
+,241,0,6,-2,5,5,5,1,0,0,5,16,Rajasic,Medium,5.9,63,19.48079162,Normal,40,3,56,M,PRABAKARAN T
+,242,4,4,2,5,2,0,0,0,0,4,7,Rajasic,Low,5.6,62,21.28069024,Normal,40,3,47,M,PRABAKARAN.C
+,243,-2,8,-2,5,5,5,2,0,0,4,17,Rajasic,Medium,5.9,85,26.28360774,Overweight,40,1,57,M,PRASATH S
+,244,0,10,-8,5,5,1,0,0,0,13,11,Sattvic,Medium,5.7,81,26.83523373,Overweight,70,1,81,M,PREETHAM MOHAN.M
+,245,0,8,-8,5,5,2,0,0,0,12,12,Sattvic,Medium,5.5,54,19.21491446,Normal,70,3,82,M,R.PRASANTH
+,246,-6,6,-6,5,5,3,0,0,0,3,13,Rajasic,Medium,5.1,67,27.72710488,Overweight,40,1,53,M,R.RATHISH
+,247,0,4,-2,5,5,5,0,0,0,4,15,Rajasic,Medium,6.1,63,18.22430412,Overweight,40,1,55,M,R.SATHIYAVEL
+,248,6,10,2,5,5,1,0,0,0,9,11,Rajasic,Medium,6.4,64,16.81861003,UnderWeight,40,1,51,M,RAKUL S
+,249,-4,10,-6,5,5,1,0,0,0,7,11,Rajasic,Medium,5.7,53,17.55885664,UnderWeight,40,1,51,M,RAMESH
+,250,2,0,-6,5,2,0,0,0,0,8,7,Rajasic,Low,5.4,55,20.30230017,Normal,40,3,47,M,RANGANATHAN.N
+,251,-6,6,-2,5,5,4,0,0,0,-1,14,Tamasic,Medium,5.9,46,14.22407007,Overweight,10,1,24,M,RANGARAJ D
+,252,-2,4,-6,5,5,5,4,0,0,6,19,Rajasic,Medium,5.6,59,20.25097942,Normal,40,3,59,M,S.NARENDRASIVABALA
+,253,-2,8,0,5,5,1,0,0,0,2,11,Rajasic,Medium,5.4,66,24.3627602,Normal,40,3,51,M,S.SASI KUMAR
+,254,-6,6,-8,5,5,3,0,0,0,5,13,Rajasic,Medium,5.6,49,16.81861003,UnderWeight,40,1,53,M,S.VASANTH
+,255,-4,4,-6,5,5,1,0,0,0,4,11,Rajasic,Medium,5.5,50,17.79158747,UnderWeight,40,1,51,M,S.YUVARAJ
+,256,-8,8,0,5,4,0,0,0,0,-4,9,Tamasic,Low,5.8,49,15.67870423,Overweight,10,1,19,M,SABARISH
+,257,0,8,-6,5,5,1,0,0,0,10,11,Rajasic,Medium,5.11,93,38.33639074,Overweight,40,1,51,M,SAMAPARASU.G
+,258,4,4,-6,5,5,0,0,0,0,12,10,Sattvic,Medium,5.8,53,16.95859846,UnderWeight,70,1,80,M,SANDEEP KUMAR C.A
+,259,-6,-2,-6,5,1,0,0,0,0,-1,6,Tamasic,Low,5.9,72,22.26376185,Normal,10,3,16,M,SARATH KUMAR.D
+,260,0,6,-4,5,5,2,0,0,0,7,12,Rajasic,Medium,5.8,56,17.91851912,UnderWeight,40,1,52,M,SATHISH.C
+,261,0,6,2,5,5,2,0,0,0,1,12,Rajasic,Medium,5.9,60,18.55313488,Normal,40,3,52,M,SATHYAKUMAR.G
+,262,-2,4,-4,5,3,0,0,0,0,4,8,Rajasic,Low,5.3,52,19.92607126,Normal,40,3,48,M,selva kumar.c
+,263,0,8,4,5,5,0,0,0,0,0,10,Rajasic,Medium,5.85,75,23.58954726,Normal,40,3,50,M,SHANKARA NETHRAN.S.N
+,264,-8,8,-6,5,5,1,0,0,0,2,11,Rajasic,Medium,5.3,50,19.1596839,Normal,40,3,51,M,SIVAMANI.S
+,265,-2,4,2,5,5,1,0,0,0,-2,11,Tamasic,Medium,5.6,40,13.72947757,Overweight,10,1,21,M,suresh kumar
+,266,0,4,4,5,5,5,1,0,0,-2,16,Tamasic,Medium,5.4,40,14.76530921,Overweight,10,1,26,M,SURESH KUMAR S
+,267,-2,6,-2,5,5,1,0,0,0,3,11,Rajasic,Medium,5.8,66,21.11825468,Normal,40,3,51,M,T.SHANMUGA VADIVEL
+,268,4,4,4,5,5,2,0,0,0,2,12,Rajasic,Medium,5.9,62,19.1715727,Normal,40,3,52,M,V VELU
+,269,4,6,-4,5,3,0,0,0,0,11,8,Sattvic,Low,5.9,52,16.07938356,UnderWeight,70,1,78,M,V.DHILIPKUMAR
+,270,-2,0,0,5,1,0,0,0,0,-2,6,Tamasic,Low,6,58,17.34185567,UnderWeight,10,1,16,M,VIMALPRASANTH.N
+,271,2,4,-2,5,5,1,0,0,0,6,11,Rajasic,Medium,5.12,54,22.1729722,Normal,40,3,51,M,VINOTH KUMAR.S
+,272,2,6,-8,5,5,5,4,0,0,13,19,Sattvic,Medium,5.4,54,19.93316744,Normal,70,3,89,M,VISHNU PRASAD J
+,273,4,6,0,5,5,0,0,0,0,7,10,Rajasic,Medium,5.8,47,15.03875712,Overweight,40,1,50,M,VK.VIJAYAVARMABASWAN
+,274,0,4,-8,5,5,5,0,0,0,10,15,Rajasic,Medium,5.7,50,16.56495909,UnderWeight,40,1,55,M,ANEESKUMAR J
+,275,4,-2,-2,5,5,0,0,0,0,5,10,Rajasic,Medium,5.3,46,17.62690919,UnderWeight,40,1,50,M,ASIK A
+,276,-2,4,-4,5,5,5,0,0,0,4,15,Rajasic,Medium,5.6,54,18.53479472,Normal,40,3,55,M,DEEPAK R
+,277,0,0,-6,5,5,1,0,0,0,6,11,Rajasic,Medium,5.1,50,20.69186931,Normal,40,3,51,M,DHANDABANI K
+,278,0,6,2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.6,86,29.51837678,Overweight,40,1,51,M,DINESH RAJ S
+,279,-2,6,-10,5,3,0,0,0,0,11,8,Sattvic,Low,5.8,52,16.6386249,UnderWeight,70,1,78,M,GOPALAKRISHNAN R
+,280,4,8,-4,5,5,3,0,0,0,12,13,Sattvic,Medium,5.8,62,19.83836046,Normal,70,3,83,M,GOWTHAM FELIX A
+,281,6,8,-6,5,5,1,0,0,0,16,11,Sattvic,Medium,5.5,55,19.57074621,Normal,70,3,81,M,HARIDASS M
+,282,-6,10,-4,5,1,0,0,0,0,3,6,Rajasic,Low,5.4,60,22.14796382,Normal,40,3,46,M,KARTHIK D
+,283,4,6,-2,5,5,5,3,0,0,9,18,Rajasic,Medium,5.7,59,19.54665173,Normal,40,3,58,M,KARTHIKRAJ S
+,284,2,8,-2,5,5,2,0,0,0,8,12,Rajasic,Medium,5.6,73,25.05629657,Overweight,40,1,52,M,KISHORE E
+,285,6,8,-4,5,5,5,1,0,0,14,16,Sattvic,Medium,5.1,95,39.3145517,Overweight,70,1,86,M,KRISHNAKUMAR K A
+,286,-2,0,-4,5,5,5,1,0,0,2,16,Rajasic,Medium,5.6,68,23.34011187,Normal,40,3,56,M,MANIKANDARAJA G
+,287,-2,8,-10,5,5,5,2,0,0,12,17,Sattvic,Medium,5.8,57,18.23849268,Overweight,70,1,87,M,NAGENDRAN M
+,288,2,2,-2,5,5,0,0,0,0,5,10,Rajasic,Medium,5.4,55,20.30230017,Normal,40,3,50,M,PALANISAMY G
+,289,0,6,2,5,5,5,1,0,0,1,16,Rajasic,Medium,5.6,85,29.17513984,Overweight,40,1,56,M,PRABHU K
+,290,-4,8,-2,5,2,0,0,0,0,2,7,Rajasic,Low,5.3,44,16.86052183,UnderWeight,40,1,47,M,PRABU S
+,291,0,4,-4,5,5,5,1,0,0,6,16,Rajasic,Medium,5.5,61,21.70573671,Normal,40,3,56,M,PRASANNAKUMAR G
+,292,0,10,-2,5,4,0,0,0,0,7,9,Rajasic,Low,5.6,60,20.59421636,Normal,40,3,49,M,RAJKUMAR R
+,293,4,10,-10,5,5,5,4,0,0,19,19,Sattvic,Medium,5.5,56,19.92657796,Normal,70,3,89,M,SANJIV R
+,294,-4,4,0,5,1,0,0,0,0,-2,6,Tamasic,Low,5.5,49,17.43575572,UnderWeight,10,1,16,M,SANKAR K
+,295,4,6,-4,5,5,0,0,0,0,11,10,Sattvic,Medium,5.8,60,19.19841335,Normal,70,3,80,M,SANTHOSH R
+,296,4,10,0,5,5,2,0,0,0,9,12,Rajasic,Medium,5.8,62,19.83836046,Normal,40,3,52,M,SATHISH KUMAR M
+,297,0,4,-8,5,5,5,1,0,0,10,16,Rajasic,Medium,5.1,82,33.93466567,Overweight,40,1,56,M,SHIVAJEGAN R D
+,298,-4,6,-2,5,5,5,0,0,0,1,15,Rajasic,Medium,5.8,60,19.19841335,Normal,40,3,55,M,SINGARAVEL P
+,299,4,6,-4,5,5,5,2,0,0,11,17,Sattvic,Medium,5.5,44,15.65659697,Overweight,70,1,87,M,SREEVARDHAN R
+,300,8,2,0,5,4,0,0,0,0,9,9,Rajasic,Low,5.5,53,18.85908271,Normal,40,3,49,M,SUBASHKUMAR S
+,301,2,8,-2,5,5,1,0,0,0,8,11,Rajasic,Medium,5.5,82,29.17820344,Overweight,40,1,51,M,SUJITH M
+,302,-2,8,-8,5,5,3,0,0,0,10,13,Rajasic,Medium,5.6,61,20.9374533,Normal,40,3,53,M,SURENDRAN M
+,303,2,4,-6,5,5,5,0,0,0,10,15,Rajasic,Medium,5.6,65,22.31040106,Normal,40,3,55,M,VIGNESH D
+,304,-2,6,-8,5,5,5,2,0,0,9,17,Rajasic,Medium,5.11,60,24.73315532,Normal,40,3,57,M,VISHNU V
+,305,-2,2,-4,5,0,0,0,0,0,3,5,Rajasic,Low,5.5,50,17.79158747,UnderWeight,40,1,45,M,VISHNUKUMAR S
+,306,-4,4,2,5,5,2,0,0,0,-4,12,Tamasic,Medium,5.4,49,18.08750379,Overweight,10,1,22,M,N.Abilash
+,307,-4,8,-4,5,5,5,3,0,0,4,18,Rajasic,Medium,5,40,17.22225667,UnderWeight,40,1,58,M,Harish R
+,308,-2,2,2,5,4,0,0,0,0,-3,9,Tamasic,Low,5.5,45,16.01242872,UnderWeight,10,1,19,M,LAKSHMA KUMAR
+,309,-2,6,-4,5,2,0,0,0,0,5,7,Rajasic,Low,5.1,57,23.58873102,Normal,40,3,47,M,V.VIJAY
+,310,-2,2,-6,5,5,1,0,0,0,5,11,Rajasic,Medium,5.11,59,24.32093606,Normal,40,3,51,M,K.ASVIN KUMAR
+,311,0,4,0,5,3,0,0,0,0,2,8,Rajasic,Low,5.7,53,17.55885664,UnderWeight,40,1,48,M,R.GOWTHAM
+,312,-2,10,0,5,1,0,0,0,0,3,6,Rajasic,Low,5.7,44,14.577164,Overweight,40,1,46,M,MANOJPRABHU.C
+,313,-2,4,-4,5,4,0,0,0,0,4,9,Rajasic,Low,5.7,57,18.88405336,Normal,40,3,49,M,MUTHUJEYASAKTHIVELAN.M
+,314,0,4,4,5,5,4,0,0,0,-2,14,Tamasic,Medium,5.5,60,21.34990496,Normal,10,3,24,M,KANNAN.K
+,315,-3,0,-2,5,1,0,0,0,0,-1,6,Tamasic,Low,5.7,50,16.56495909,UnderWeight,10,1,16,M,I.ARUN KUMAR
+,316,-8,10,-4,5,5,2,0,0,0,1,12,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,52,M,D.ARAVINDHAN
+,317,4,6,0,5,5,3,0,0,0,7,13,Rajasic,Medium,5.4,52,19.19490198,Normal,40,3,53,M,V.BALAKRISHNAN
+,318,-8,10,-2,5,3,0,0,0,0,-1,8,Tamasic,Low,5.3,40,15.32774712,Overweight,10,1,18,M,KAVIN.M
+,319,-2,8,-2,5,4,0,0,0,0,4,9,Rajasic,Low,5.6,68,23.34011187,Normal,40,3,49,M,M.ANBALAGAN.
+,320,-4,4,-6,5,4,0,0,0,0,4,9,Rajasic,Low,5.6,65,22.31040106,Normal,40,3,49,M,KUMARAGURU.M
+,321,-4,4,6,5,1,0,0,0,0,-8,6,Tamasic,Low,5.5,45,16.01242872,UnderWeight,10,1,16,M,DEEBANKUMAR.B
+,322,2,8,0,5,5,0,0,0,0,6,10,Rajasic,Medium,5.7,50,16.56495909,UnderWeight,40,1,50,M,KARTHIKKUMAR.K
+,323,0,0,-4,5,1,0,0,0,0,4,6,Rajasic,Low,5.5,43,15.30076522,Overweight,40,1,46,M,H.SIVAMURUGAN
+,324,-8,-2,-8,5,5,2,0,0,0,-1,12,Tamasic,Medium,5.11,57,23.49649755,Normal,10,3,22,M,NARESH.M
+,325,-6,8,-10,5,4,0,0,0,0,8,9,Rajasic,Low,5.8,61,19.5183869,Normal,40,3,49,M,M.SARATH KUMAR
+,326,8,10,4,5,5,0,0,0,0,9,10,Rajasic,Medium,5.3,55,21.07565229,Normal,40,3,50,M,DEEPAK U
+,327,-4,-2,-2,5,1,0,0,0,0,-3,6,Tamasic,Low,5.9,50,15.46094573,Overweight,10,1,16,M,R.SENTHIL DEVA
+,328,4,8,0,5,5,5,2,0,0,8,17,Rajasic,Medium,5.5,58,20.63824146,Normal,40,3,57,M,R.POORNA CHANDRAN
+,329,-2,4,-2,5,5,5,0,0,0,2,15,Rajasic,Medium,5.3,49,18.77649022,Normal,40,3,55,M,B.BALAJI
+,330,-4,4,-2,5,5,3,0,0,0,0,13,Rajasic,Medium,5.5,41,14.58910172,Overweight,40,1,53,M,R.THABIBUR RAHMAN
+,331,-6,4,2,5,5,1,0,0,0,-6,11,Tamasic,Medium,4.11,39,24.8514102,Normal,10,3,21,M,V.BHUVANESHWARAN
+,332,-4,0,2,3,0,0,0,0,0,-6,3,Tamasic,Low,5.4,41,15.13444194,Overweight,10,1,13,M,A.DAVID
+,333,-4,8,4,5,5,0,0,0,0,-4,10,Tamasic,Medium,5.9,54,16.69782139,UnderWeight,10,1,20,M,SANDEEP.T
+,334,8,10,8,5,3,0,0,0,0,5,8,Rajasic,Low,5.5,46,16.36826047,UnderWeight,40,1,48,M,PARTHIBAN
+,335,-4,6,-4,5,4,0,0,0,0,3,9,Rajasic,Low,5.7,78,25.84133618,Overweight,40,1,49,M,VISHAL.S
+,336,-8,6,-6,5,3,0,0,0,0,1,8,Rajasic,Low,5.6,54,18.53479472,Normal,40,3,48,M,SARATH KUMAR.D
+,337,8,10,8,4,0,0,0,0,0,5,4,Rajasic,Low,5,38,16.36114383,UnderWeight,40,1,44,M,S.VIGNESHWAR
+,338,2,4,-8,5,2,0,0,0,0,12,7,Sattvic,Low,5.7,46,15.23976236,Overweight,70,1,77,M,M.PONSELVAN
+,339,-4,6,-8,5,5,1,0,0,0,7,11,Rajasic,Medium,5.5,44,15.65659697,Overweight,40,1,51,M,SAKTHI VARMA.A
+,340,-4,8,-2,5,3,0,0,0,0,2,8,Rajasic,Low,5.9,62,19.1715727,Normal,40,3,48,M,M.SARAVANA KUMAR
+,341,0,8,2,5,1,0,0,0,0,2,6,Rajasic,Low,5.3,53,20.30926494,Normal,40,3,46,M,PRABU.N
+,342,10,10,8,5,0,0,0,0,0,7,5,Rajasic,Low,5.7,53,17.55885664,UnderWeight,40,1,45,M,RAMPRASANTH.H
+,343,-2,2,0,5,5,0,0,0,0,-1,10,Tamasic,Medium,5.1,76,31.45164136,Overweight,10,1,20,M,RAKESH KUMA.B
+,344,-4,6,-2,5,2,0,0,0,0,1,7,Rajasic,Low,5.1,39,16.13965806,UnderWeight,40,1,47,M,surenthiran.c
+,347,0,6,4,5,2,0,0,0,0,-1,7,Tamasic,Low,5.1,59,24.41640579,Normal,10,3,17,M,SIVARASAN  D
+,348,-2,6,-6,5,5,3,0,0,0,7,13,Rajasic,Medium,5.8,61,19.5183869,Normal,40,3,53,M,C.MADHAN KUMAR
+,349,0,6,4,5,5,0,0,0,0,-1,10,Tamasic,Medium,5.9,52,16.07938356,UnderWeight,10,1,20,M,ANEESH   M
+,350,-4,6,-2,5,2,0,0,0,0,1,7,Rajasic,Low,5.9,69,21.33610511,Normal,40,3,47,M,G.ASWINTH
+,351,-2,8,0,5,5,5,1,0,0,2,16,Rajasic,Medium,5.8,55,17.59854557,UnderWeight,40,1,56,M,YUVARAJ.S
+,352,4,2,2,5,4,0,0,0,0,3,9,Rajasic,Low,5.5,44,15.65659697,Overweight,40,1,49,M,MALLIGAARJUNAN.P
+,353,-2,8,0,5,5,4,0,0,0,2,14,Rajasic,Medium,5.6,52,17.84832084,UnderWeight,40,1,54,M,SOUNDARRAJ.B
+,354,-4,8,0,5,5,0,0,0,0,0,10,Rajasic,Medium,4.9,34,15.24252204,Overweight,40,1,50,M,AMAR NATH.K
+,355,4,6,0,5,0,0,0,0,0,7,5,Rajasic,Low,5.11,66,27.20647085,Overweight,40,1,45,M,P.KRISHNAKANTH
+,356,0,0,0,5,5,1,0,0,0,0,11,Rajasic,Medium,5.5,61,21.70573671,Normal,40,3,51,M,D.ABISHEK
+,357,4,2,-4,5,4,0,0,0,0,9,9,Rajasic,Low,5.5,75,26.6873812,Overweight,40,1,49,M,VINOTHKANNAN.S
+,358,6,8,4,5,4,0,0,0,0,6,9,Rajasic,Low,5.8,54,17.27857201,UnderWeight,40,1,49,M,GNANARAJ. M
+,359,0,6,0,5,5,3,0,0,0,3,13,Rajasic,Medium,5.6,50,17.16184697,UnderWeight,40,1,53,M,S.SUDHAN SURESH
+,360,-4,4,0,5,4,0,0,0,0,-2,9,Tamasic,Low,5.2,43,17.11716523,UnderWeight,10,1,19,M,D.NAVEEN KUMAR
+,361,0,8,-2,5,5,3,0,0,0,6,13,Rajasic,Medium,5.5,41,14.58910172,Overweight,40,1,53,M,K.R.UDHAYA KUMAR
+,362,-2,8,-2,5,5,4,0,0,0,4,14,Rajasic,Medium,5.8,64,20.47830757,Normal,40,3,54,M,SARAVANAKUMAR.K
+,363,2,4,4,5,5,3,0,0,0,0,13,Rajasic,Medium,5.4,44,16.24184013,UnderWeight,40,1,53,M,V.KARTHIK
+,364,-4,2,-2,5,5,3,0,0,0,-1,13,Tamasic,Medium,5.7,53,17.55885664,UnderWeight,10,1,23,M,D.GOKUL
+,365,2,4,2,5,4,0,0,0,0,2,9,Rajasic,Low,5.5,46,16.36826047,UnderWeight,40,1,49,M,R.NANDHA KUMAR
+,366,2,0,-4,5,5,0,0,0,0,6,10,Rajasic,Medium,5.1,51,21.1057067,Normal,40,3,50,M,S.KARTHIK   KUMAR
+,367,0,-2,-4,5,5,5,0,0,0,3,15,Rajasic,Medium,5.5,50,17.79158747,UnderWeight,40,1,55,M,P.PRAKASH
+,368,2,-2,2,5,0,0,0,0,0,-1,5,Tamasic,Low,5.6,46,15.78889921,Overweight,10,1,15,M,SANTHOSHKUMAR
+,369,-4,0,-4,5,0,0,0,0,0,0,5,Rajasic,Low,5.9,49,15.15172681,Overweight,40,1,45,M,D.KARUPPU SAMY
+,370,2,2,0,5,5,2,0,0,0,3,12,Rajasic,Medium,5.4,47,17.34923833,UnderWeight,40,1,52,M,k.kARTHIK
+,371,-8,10,-6,5,5,1,0,0,0,3,11,Rajasic,Medium,5.8,51,16.31865135,UnderWeight,40,1,51,M,C.LOGESH
+,372,4,6,-2,5,5,0,0,0,0,9,10,Rajasic,Medium,5.7,51,16.89625827,UnderWeight,40,1,50,M,SELVENTHIRAN.C
+,373,4,2,-2,5,2,0,0,0,0,7,7,Rajasic,Low,5.3,51,19.54287758,Normal,40,3,47,M,D.RAGU
+,374,2,6,-2,5,3,0,0,0,0,7,8,Rajasic,Low,5.8,50,15.99867779,Overweight,40,1,48,M,T.PRABHU
+,375,-2,4,-2,5,2,0,0,0,0,2,7,Rajasic,Low,4.1,26,16.64852295,UnderWeight,40,1,47,M,JAGADESH .S
+,376,0,8,4,5,5,1,0,0,0,0,11,Rajasic,Medium,5.5,49,17.43575572,UnderWeight,40,1,51,M,S.MAGESHWARAN
+,377,-4,4,0,5,5,3,0,0,0,-2,13,Tamasic,Medium,5.6,51,17.5050839,UnderWeight,10,1,23,M,B. KARTHICK
+,378,-8,6,-6,5,5,2,0,0,0,1,12,Rajasic,Medium,5.3,45,17.24371551,UnderWeight,40,1,52,M,KRISHNARAJ.R
+,379,0,6,-2,5,3,0,0,0,0,5,8,Rajasic,Low,5.1,49,20.27803193,Normal,40,3,48,M,DINESHKUMAR.R
+,380,-2,10,-6,5,5,0,0,0,0,9,10,Rajasic,Medium,5.8,53,16.95859846,UnderWeight,40,1,50,M,MUTHUKRISHNAN.R
+,381,-6,0,4,5,4,0,0,0,0,-10,9,Tamasic,Low,6.1,112,32.39876288,Overweight,10,1,19,M,RAMACHANDRAN.P
+,382,-2,10,0,5,1,0,0,0,0,3,6,Rajasic,Low,5.7,50,16.56495909,UnderWeight,40,1,46,M,NIRMALKUMAR.P
+,383,0,6,-2,5,2,0,0,0,0,5,7,Rajasic,Low,5.6,48,16.47537309,UnderWeight,40,1,47,M,IYAPPAN.K
+,384,-8,2,4,5,5,1,0,0,0,-11,11,Tamasic,Medium,5.1,70,28.96861704,Overweight,10,1,21,M,N.SARAN PRASATH
+,385,-2,2,-2,5,1,0,0,0,0,1,6,Rajasic,Low,5.1,83,34.34850306,Overweight,40,1,46,M,SURENDER MOHAN.M
+,386,2,4,6,5,5,4,0,0,0,-2,14,Tamasic,Medium,5.8,57,18.23849268,Overweight,10,1,24,M,MURALI.P
+,387,-2,8,0,5,4,0,0,0,0,2,9,Rajasic,Low,5.6,50,17.16184697,UnderWeight,40,1,49,M,VENKATESH.S
+,388,-4,6,-4,5,5,1,0,0,0,3,11,Rajasic,Medium,5.8,62,19.83836046,Normal,40,3,51,M,BALAMURALI . R
+,389,-4,2,-8,5,5,3,0,0,0,5,13,Rajasic,Medium,5.8,48,15.35873068,Overweight,40,1,53,M,SANTHOSH  KUMAR  .  G
+,390,-6,-2,-8,5,4,0,0,0,0,1,9,Rajasic,Low,55,103,0.366506702,Overweight,40,1,49,M,M  RANJITH KUMAR
+,391,4,6,-6,5,5,2,0,0,0,13,12,Sattvic,Medium,5.7,62,20.54054927,Normal,70,3,82,M,ABUTHAKIR.H
+,392,0,8,-4,5,5,1,0,0,0,8,11,Rajasic,Medium,5.3,49,18.77649022,Normal,40,3,51,M,ARUN KUMAR B
+,393,-4,6,-2,5,4,0,0,0,0,1,9,Rajasic,Low,5.2,52,20.69982772,Normal,40,3,49,M,ARUN KUMAR.K.I.
+,394,2,6,-8,5,5,5,0,0,0,13,15,Sattvic,Medium,5.7,99,32.798619,Overweight,70,1,85,M,ARUNKUMAR.E
+,395,2,8,0,5,3,0,0,0,0,6,8,Rajasic,Low,5.4,54,19.93316744,Normal,40,3,48,M,Arunsundar
+,396,-8,6,-4,5,5,3,0,0,0,-1,13,Tamasic,Medium,5.5,45,16.01242872,UnderWeight,10,1,23,M,D.VINOTH
+,397,4,6,-2,5,5,0,0,0,0,9,10,Rajasic,Medium,5.5,53,18.85908271,Normal,40,3,50,M,deepak kumaran
+,398,-4,6,-2,5,1,0,0,0,0,1,6,Rajasic,Low,5.5,52,18.50325096,Normal,40,3,46,M,DEEPAK.N
+,399,-4,10,2,5,1,0,0,0,0,-1,6,Tamasic,Low,5.8,55,17.59854557,UnderWeight,10,1,16,M,DEVARAJ.B
+,400,-4,10,-2,5,4,0,0,0,0,3,9,Rajasic,Low,5.7,80,26.50393454,Overweight,40,1,49,M,G.MUKESH
+,401,0,10,4,5,3,0,0,0,0,1,8,Rajasic,Low,5.6,52,17.84832084,UnderWeight,40,1,48,M,G.PRASATH
+,402,4,8,-4,5,4,0,0,0,0,12,9,Sattvic,Low,5.6,46,15.78889921,Overweight,70,1,79,M,G.VENUGOPAL
+,403,0,2,-4,5,4,0,0,0,0,5,9,Rajasic,Low,5.6,52,17.84832084,UnderWeight,40,1,49,M,JAISHON.J
+,404,2,8,2,5,5,3,0,0,0,4,13,Rajasic,Medium,5.5,51,18.14741921,Overweight,40,1,53,M,JAYAVIMAL.R
+,405,-2,6,-8,5,4,0,0,0,0,9,9,Rajasic,Low,5.5,59,20.99407321,Normal,40,3,49,M,KAVIN RAJ.M
+,406,-2,4,0,5,5,0,0,0,0,0,10,Rajasic,Medium,5.8,73,23.35806957,Normal,40,3,50,M,KUPPUSAMY.S
+,407,-4,6,-2,5,2,0,0,0,0,1,7,Rajasic,Low,5.1,72,29.79629181,Overweight,40,1,47,M,M.HARIHARA SUDHAN
+,408,0,4,-2,5,4,0,0,0,0,4,9,Rajasic,Low,5.6,49,16.81861003,UnderWeight,40,1,49,M,M.NAVEEN
+,409,-2,8,-4,5,5,2,0,0,0,6,12,Rajasic,Medium,5.9,63,19.48079162,Normal,40,3,52,M,MAHENDRAN.A
+,410,-6,8,-6,5,1,0,0,0,0,4,6,Rajasic,Low,5.5,70,24.90822245,Normal,40,3,46,M,MANJUTHARAN.S
+,411,-2,6,0,5,4,0,0,0,0,1,9,Rajasic,Low,5.8,56,17.91851912,UnderWeight,40,1,49,M,MANOJ KUMAR.V
+,412,-4,6,2,5,5,0,0,0,0,-3,10,Tamasic,Medium,5.6,60,20.59421636,Normal,10,3,20,M,PASUPATHI.G
+,413,-4,4,0,5,3,0,0,0,0,-2,8,Tamasic,Low,5.7,49,16.23365991,UnderWeight,10,1,18,M,PRAKASAM.N
+,414,-2,4,-6,5,3,0,0,0,0,6,8,Rajasic,Low,5.6,69,23.68334881,Normal,40,3,48,M,R.JAGANATHAN
+,415,-8,10,6,5,4,0,0,0,0,-9,9,Tamasic,Low,5.7,49,16.23365991,UnderWeight,10,1,19,M,RAVISELVAN.K
+,416,2,6,0,5,3,0,0,0,0,5,8,Rajasic,Low,5.9,80,24.73751317,Normal,40,3,48,M,S KARTHIKEYAN
+,417,-6,2,-10,5,5,2,0,0,0,5,12,Rajasic,Medium,5.6,61,20.9374533,Normal,40,3,52,M,S.KARTHIK RAJA
+,418,0,0,-6,5,4,0,0,0,0,6,9,Rajasic,Low,5.28,51,19.69121009,Normal,40,3,49,M,s.singaravelan
+,419,-2,4,-6,5,5,4,0,0,0,6,14,Rajasic,Medium,5.5,51,18.14741921,Overweight,40,1,54,M,SANJEEV.R
+,420,-2,4,-2,5,5,2,0,0,0,2,12,Rajasic,Medium,5.1,74,30.62396658,Overweight,40,1,52,M,SARAVANAKUMAR.K
+,421,0,6,-8,5,5,5,0,0,0,11,15,Sattvic,Medium,5.11,54,22.25983979,Normal,70,3,85,M,SATHISH KUMAR.K
+,422,0,10,-8,5,4,0,0,0,0,13,9,Sattvic,Low,5.6,45,15.44566227,Overweight,70,1,79,M,SATHISH.S
+,423,-2,-2,-4,5,5,1,0,0,0,1,11,Rajasic,Medium,5.9,63,19.48079162,Normal,40,3,51,M,SIVASAKTHI.M
+,424,0,10,-8,5,0,0,0,0,0,13,5,Sattvic,Low,5.9,51,15.77016464,Overweight,70,1,75,M,SREERAM.B
+,425,8,6,2,5,5,5,0,0,0,9,15,Rajasic,Medium,5.6,90,30.89132454,Overweight,40,1,55,M,SURESH.S
+,426,-2,4,-8,5,5,1,0,0,0,8,11,Rajasic,Medium,5.8,69,22.07817535,Normal,40,3,51,M,TAMILANBAN.P
+,427,0,8,-6,5,5,5,1,0,0,10,16,Rajasic,Medium,5.6,62,21.28069024,Normal,40,3,56,M,VARADHA RAJA PERUMAL R
+,428,-4,10,-4,5,5,3,0,0,0,5,13,Rajasic,Medium,5.6,55,18.87803166,Normal,40,3,53,M,VINOTH KUMAR.K
+,429,-4,4,-6,5,5,5,0,0,0,4,15,Rajasic,Medium,5.2,65,25.87478466,Overweight,40,1,55,M,VINOTH KUMAR.S
+,430,-2,0,-2,5,3,0,0,0,0,0,8,Rajasic,Low,5.6,53,18.19155778,Overweight,40,1,48,M,VIVEK.S
+,431,6,2,0,5,5,5,5,0,0,7,20,Rajasic,Medium,5.6,51,17.5050839,UnderWeight,40,1,60,M,ANEESKUMAR.J
+,432,-2,6,0,5,5,0,0,0,0,1,10,Rajasic,Medium,5.3,46,17.62690919,UnderWeight,40,1,50,M,ASIK.A
+,433,2,6,-6,5,5,5,5,0,0,11,20,Sattvic,Medium,5.7,54,17.89015582,UnderWeight,70,1,90,M,DEEPAK.R
+,434,0,8,-4,5,5,0,0,0,0,8,10,Rajasic,Medium,5.1,50,20.69186931,Normal,40,3,50,M,DHANDABANI.K
+,435,-4,8,-2,5,5,3,0,0,0,2,13,Rajasic,Medium,5.9,54,16.69782139,UnderWeight,40,1,53,M,GOPALA KRISHNAN.R
+,436,0,10,-4,5,5,4,0,0,0,9,14,Rajasic,Medium,5.8,63,20.15833401,Normal,40,3,54,M,GOWTHAM FELIX A
+,437,0,8,2,5,5,2,0,0,0,2,12,Rajasic,Medium,5.7,85,28.16043045,Overweight,40,1,52,M,K.PRABHU
+,438,-6,10,-2,5,5,2,0,0,0,1,12,Rajasic,Medium,5.6,60,20.59421636,Normal,40,3,52,M,KARTHIK.D
+,439,6,2,-2,5,5,5,4,0,0,9,19,Rajasic,Medium,5.7,59,19.54665173,Normal,40,3,59,M,KARTHIKRAJ.S
+,440,0,10,0,5,5,5,2,0,0,5,17,Rajasic,Medium,5.1,95,39.3145517,Overweight,40,1,57,M,KRISHNAKUMAR.K.A
+,441,10,6,-4,5,5,5,4,0,0,17,19,Sattvic,Medium,5.8,56,17.91851912,UnderWeight,70,1,89,M,LOGESHWARAN.M
+,442,-2,4,2,5,5,2,0,0,0,-2,12,Tamasic,Medium,5.8,65,20.79828113,Normal,10,3,22,M,MANIKANDARAJA.G
+,443,-4,-2,-2,5,5,3,0,0,0,-3,13,Tamasic,Medium,5.5,55,19.57074621,Normal,10,3,23,M,PALANISAMY.G
+,444,-2,4,0,5,2,0,0,0,0,0,7,Rajasic,Low,5.6,44,15.10242533,Overweight,40,1,47,M,PRABU.S
+,445,0,-2,-6,5,5,5,2,0,0,5,17,Rajasic,Medium,5.5,60,21.34990496,Normal,40,3,57,M,PRASANNAKUMAR.G
+,446,4,6,0,5,3,0,0,0,0,7,8,Rajasic,Low,5.6,60,20.59421636,Normal,40,3,48,M,RAJKUMAR.R
+,447,0,10,-2,5,3,0,0,0,0,7,8,Rajasic,Low,5.7,82,27.16653291,Overweight,40,1,48,M,S.DINESHRAJ
+,448,8,8,-4,5,4,0,0,0,0,16,9,Sattvic,Low,5.6,52,17.84832084,UnderWeight,70,1,79,M,S.SUBASHKUMAR
+,449,-2,-2,-4,5,5,0,0,0,0,1,10,Rajasic,Medium,5.6,52,17.84832084,UnderWeight,40,1,50,M,S.VISHNU KUMAR
+,450,0,6,-4,5,3,0,0,0,0,7,8,Rajasic,Low,5.5,49,17.43575572,UnderWeight,40,1,48,M,SANKAR.K
+,451,-8,6,-2,5,5,5,1,0,0,-3,16,Tamasic,Medium,5.8,60,19.19841335,Normal,10,3,26,M,SANTHOSH.R
+,452,2,8,2,5,5,3,0,0,0,4,13,Rajasic,Medium,5.7,64,21.20314764,Normal,40,3,53,M,SATHISH KUMAR.M
+,453,-2,8,-2,5,5,5,2,0,0,4,17,Rajasic,Medium,5.11,82,33.80197894,Overweight,40,1,57,M,SHIVA JEGAN .R.D
+,454,-2,8,-10,5,5,4,0,0,0,12,14,Sattvic,Medium,5.8,60,19.19841335,Normal,70,3,84,M,SINGARAVEL.P
+,455,2,4,-8,5,5,5,0,0,0,12,15,Sattvic,Medium,5.5,44,15.65659697,Overweight,70,1,85,M,SREE VARDHAN R
+,456,8,6,2,5,4,0,0,0,0,9,9,Rajasic,Low,5.5,82,29.17820344,Overweight,40,1,49,M,SUJITH.M
+,457,-4,2,-4,5,4,0,0,0,0,1,9,Rajasic,Low,5.7,62,20.54054927,Normal,40,3,49,M,SURENDRAN M
+,458,-4,6,-8,5,5,0,0,0,0,7,10,Rajasic,Medium,5.11,60,24.73315532,Normal,40,3,50,M,VISHNU . V
+,459,0,0,-4,5,5,0,0,0,0,4,10,Rajasic,Medium,5.6,65,22.31040106,Normal,40,3,50,M,G.SARAVANAKUMAR
+,460,2,10,4,5,5,5,0,0,0,3,15,Rajasic,Medium,5.2,52,20.69982772,Normal,40,3,55,M,P.YUKESH
+,461,4,4,0,5,3,0,0,0,0,6,8,Rajasic,Low,5.6,68,23.34011187,Normal,40,3,48,M,S.ARAVINDAN
+,462,-4,2,-2,5,5,3,0,0,0,-1,13,Tamasic,Medium,5,51,21.95837725,Normal,10,3,23,M,P.GANESAN
+,463,4,8,-4,5,5,4,0,0,0,12,14,Sattvic,Medium,5.7,50,16.56495909,UnderWeight,70,1,84,M,JAGADESHWARAN.A
+,464,-2,4,-4,5,5,5,2,0,0,4,17,Rajasic,Medium,5.9,58,17.93469705,UnderWeight,40,1,57,M,SANTHAMOORTHY.M
+,465,-8,10,2,5,5,4,0,0,0,-5,14,Tamasic,Medium,5.5,58,20.63824146,Normal,10,3,24,M,KANNAN.N
+,466,0,4,-4,5,0,0,0,0,0,6,5,Rajasic,Low,5.5,72,25.61988595,Overweight,40,1,45,M,srinivasa.k
+,467,-4,0,-2,5,5,5,2,0,0,-2,17,Tamasic,Medium,5.3,48,18.39329655,Overweight,10,1,27,M,Ashokkumar.v
+,468,-2,-4,4,5,1,0,0,0,0,-8,6,Tamasic,Low,5.5,63,22.41740021,Normal,10,3,16,M,k.Ariviknesh
+,469,-4,6,-4,5,5,2,0,0,0,3,12,Rajasic,Medium,5.6,52,17.84832084,UnderWeight,40,1,52,M,R.PARASURAMA KRISHNAN
+,470,-2,6,-6,5,4,0,0,0,0,7,9,Rajasic,Low,5.2,60,23.88441661,Normal,40,3,49,M,R.Gokul
+,471,0,4,-6,5,5,1,0,0,0,8,11,Rajasic,Medium,5.7,42,13.91456564,Overweight,40,1,51,M,p.vINOTH
+,472,-6,8,-6,5,3,0,0,0,0,4,8,Rajasic,Low,5.4,62,22.88622928,Normal,40,3,48,M,T.M.SURESH
+,473,4,10,2,5,2,0,0,0,0,7,7,Rajasic,Low,5.4,62,22.88622928,Normal,40,3,47,M,PREMKUMAR.J
+,474,-2,8,-4,5,5,0,0,0,0,6,10,Rajasic,Medium,5.4,50,18.45663652,Overweight,40,1,50,M,P.KALAI RAJ
+,475,4,2,2,5,4,0,0,0,0,3,9,Rajasic,Low,6,56,16.74386065,UnderWeight,40,1,49,M,S.SARAVANAKUMAR
+,476,2,6,-6,5,5,4,0,0,0,11,14,Sattvic,Medium,5,55,23.68060292,Normal,70,3,84,M,R.vijay
+,477,-8,6,-4,5,3,0,0,0,0,-1,8,Tamasic,Low,5.3,52,19.92607126,Normal,10,3,18,M,B.Vignesh
+,478,2,6,-8,5,5,3,0,0,0,13,13,Sattvic,Medium,5.1,49,20.27803193,Normal,70,3,83,M,GOPAL.M
+,479,-2,2,-6,5,5,0,0,0,0,5,10,Rajasic,Medium,5.4,45,16.61097287,UnderWeight,40,1,50,M,M.Parama dhayalan
+,480,-2,10,-2,3,0,0,0,0,0,5,3,Rajasic,Low,5.9,75,23.19141859,Normal,40,3,43,M,G.Karthick
+,481,-4,6,2,5,4,0,0,0,0,-3,9,Tamasic,Low,5.5,66,23.48489545,Normal,10,3,19,M,santhosh kumar .p
+,482,-2,-2,0,5,1,0,0,0,0,-3,6,Tamasic,Low,5.4,53,19.56403471,Normal,10,3,16,M,M.Suresh
+,483,-6,6,2,5,5,0,0,0,0,-5,10,Tamasic,Medium,5.11,63,25.96981308,Overweight,10,1,20,M,M.Naveen kumar
+,484,0,2,-4,5,5,2,0,0,0,5,12,Rajasic,Medium,5.6,65,22.31040106,Normal,40,3,52,M,R.CHITHRAKUMAR
+,485,10,10,2,5,5,1,0,0,0,13,11,Sattvic,Medium,5.7,52,17.22755745,UnderWeight,70,1,81,M,S.SATHIYAMURTHI
+,486,-6,4,0,5,2,0,0,0,0,-4,7,Tamasic,Low,6,56,16.74386065,UnderWeight,10,1,17,M,N.Saravana kumar
+,487,-4,10,-4,5,5,1,0,0,0,5,11,Rajasic,Medium,5.7,65,21.53444682,Normal,40,3,51,M,S.MADHU
+,488,2,4,0,5,4,0,0,0,0,4,9,Rajasic,Low,5.1,65,26.89943011,Overweight,40,1,49,M,B.vijayakumar
+,489,-2,2,0,5,4,0,0,0,0,-1,9,Tamasic,Low,5.9,110,34.0140806,Overweight,10,1,19,M,R.SAKTHIVEL
+,490,-2,6,-4,5,5,5,0,0,0,5,15,Rajasic,Medium,6,58,17.34185567,UnderWeight,40,1,55,M,CHARLES.S
+,491,8,8,8,5,5,1,0,0,0,4,11,Rajasic,Medium,5.6,48,16.47537309,UnderWeight,40,1,51,M,DHARANI DHARAN.K
+,492,-4,8,-6,5,5,0,0,0,0,6,10,Rajasic,Medium,5.9,60,18.55313488,Normal,40,3,50,M,M.KARTHIK
+,493,-4,4,4,5,0,0,0,0,0,-6,5,Tamasic,Low,5.8,55,17.59854557,UnderWeight,10,1,15,M,sureshkumar d
+,494,-4,8,-4,5,5,0,0,0,0,4,10,Rajasic,Medium,5.2,54,21.49597494,Normal,40,3,50,M,PRASATH.K
+,495,6,4,4,5,0,0,0,0,0,4,5,Rajasic,Low,6.2,72,20.16133065,Normal,40,3,45,M,SRIRAM.S
+,496,10,6,-2,5,5,5,5,0,0,15,20,Sattvic,Medium,5.9,70,21.64532402,Normal,70,3,90,M,AASHIK CHANDRAN
+,497,10,2,-10,5,5,5,3,0,0,21,18,Sattvic,Medium,5.11,65,26.7942516,Overweight,70,1,88,M,B.MADHANA GOPAL
+,498,2,4,2,5,5,3,0,0,0,2,13,Rajasic,Medium,5.7,67,22.19704518,Normal,40,3,53,M,AVINASH
+,499,6,10,-2,5,5,5,0,0,0,13,15,Sattvic,Medium,5.7,54,17.89015582,UnderWeight,70,1,85,M,A.S.AJAY KUMAR
+,500,0,6,-2,5,5,3,0,0,0,5,13,Rajasic,Medium,5.1,64,26.48559272,Overweight,40,1,53,M,KOTEEISSH.R
+,501,10,8,8,5,2,0,0,0,0,6,7,Rajasic,Low,5.2,73,29.05937354,Overweight,40,1,47,M,S.DHILIPKUMAR
+,502,-2,4,2,5,5,1,0,0,0,-2,11,Tamasic,Medium,5.6,68,23.34011187,Normal,10,3,21,M,B.ARAVIND
+,503,4,8,-2,5,5,1,0,0,0,10,11,Rajasic,Medium,5.5,47,16.72409222,UnderWeight,40,1,51,M,K. GOWTHAM
+,504,-4,4,-2,5,4,0,0,0,0,0,9,Rajasic,Low,5.8,56,17.91851912,UnderWeight,40,1,49,M,N.DHARANI KUMAR
+,505,-6,2,0,5,2,0,0,0,0,-5,7,Tamasic,Low,5.1,95,39.3145517,Overweight,10,1,17,M,V.PURUSOTHAMAN
+,506,2,4,-6,5,5,0,0,0,0,10,10,Rajasic,Medium,5.5,47,16.72409222,UnderWeight,40,1,50,M,MEGHARAJ.S
+,507,-2,6,-6,5,5,5,1,0,0,7,16,Rajasic,Medium,5.4,49,18.08750379,Overweight,40,1,56,M,R.ASHICK
+,508,-4,-2,-6,5,4,0,0,0,0,1,9,Rajasic,Low,5.1,57,23.58873102,Normal,40,3,49,M,K.GOWTHAMRAJ
+,509,6,8,2,5,0,0,0,0,0,8,5,Rajasic,Low,5.9,59,18.24391596,Overweight,40,1,45,M,S.RAMANATHAN
+,510,0,2,-2,5,2,0,0,0,0,3,7,Rajasic,Low,5.4,47,17.34923833,UnderWeight,40,1,47,M,K.MANOJ
+,511,2,2,-4,5,2,0,0,0,0,7,7,Rajasic,Low,5.1,57,23.58873102,Normal,40,3,47,M,R.GOKUL NATH
+,512,-2,2,-2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.4,74,27.31582205,Overweight,40,1,51,M,N.HARIKRISHNA
+,513,-2,10,-4,5,5,1,0,0,0,7,11,Rajasic,Medium,5.1,65,26.89943011,Overweight,40,1,51,M,SIVAKUMAR.K
+,514,-4,2,-2,0,0,0,0,0,0,-1,0,Tamasic,Low,5.7,57,18.88405336,Normal,10,3,10,M,SURYA KIRAN.S
+,515,4,8,-8,5,5,2,0,0,0,16,12,Sattvic,Medium,5.9,63,19.48079162,Normal,70,3,82,M,S.RUBESH
+,516,-2,4,0,5,0,0,0,0,0,0,5,Rajasic,Low,5.7,52,17.22755745,UnderWeight,40,1,45,M,A.SRIRAM
+,517,-2,2,-6,5,5,3,0,0,0,5,13,Rajasic,Medium,5.3,42,16.09413448,UnderWeight,40,1,53,M,KARTHICK.C
+,518,0,2,-4,5,4,0,0,0,0,5,9,Rajasic,Low,545,45,0.001630758,Overweight,40,1,49,M,S.PRADEEP
+,519,0,0,-6,5,4,0,0,0,0,6,9,Rajasic,Low,4.11,39,24.8514102,Normal,40,3,49,M,N.NATTAMAI
+,520,-4,0,0,5,2,0,0,0,0,-4,7,Tamasic,Low,5.8,55,17.59854557,UnderWeight,10,1,17,M,A.DHARMTHAYKUTTAN
+,521,-2,2,2,5,5,2,0,0,0,-3,12,Tamasic,Medium,5.7,52,17.22755745,UnderWeight,10,1,22,M,P .ARIVALAGAN
+,522,-4,-6,0,5,0,0,0,0,0,-7,5,Tamasic,Low,5.5,61,21.70573671,Normal,10,3,15,M,R.UTHAYACHANDRAN
+,523,4,8,6,5,5,1,0,0,0,2,11,Rajasic,Medium,6.1,58,16.77793078,UnderWeight,40,1,51,M,S.UMANATH
+,524,-8,2,0,5,2,0,0,0,0,-7,7,Tamasic,Low,5.11,65,26.7942516,Overweight,10,1,17,M,SADHISHKUMAR.D
+,525,-6,0,0,5,4,0,0,0,0,-6,9,Tamasic,Low,5.5,47,16.72409222,UnderWeight,10,1,19,M,mohanasundaram k
+,526,-2,4,-4,5,0,0,0,0,0,4,5,Rajasic,Low,5.9,84,25.97438883,Overweight,40,1,45,M,RIYAS AHAMED.B
+,527,-2,4,-8,5,3,0,0,0,0,8,8,Rajasic,Low,5.6,48,16.47537309,UnderWeight,40,1,48,M,S.KATHIRESAN
+,528,2,8,4,5,2,0,0,0,0,2,7,Rajasic,Low,4.11,44,28.03748843,Overweight,40,1,47,M,B.SRINIVASAN
+,529,4,8,2,5,4,0,0,0,0,6,9,Rajasic,Low,5.5,45,16.01242872,UnderWeight,40,1,49,M,HIRAN DAS
+,530,-2,4,-4,5,1,0,0,0,0,4,6,Rajasic,Low,4.11,41,26.12584149,Overweight,40,1,46,M,A .JEGADESHAN
+,531,-8,6,0,5,5,1,0,0,0,-5,11,Tamasic,Medium,5.5,47,16.72409222,UnderWeight,10,1,21,M,PARTHIBAN.K
+,532,-4,8,0,5,3,0,0,0,0,0,8,Rajasic,Low,5.8,57,18.23849268,Overweight,40,1,48,M,S.DHANAPAL
+,533,0,8,-2,5,3,0,0,0,0,6,8,Rajasic,Low,5.8,57,18.23849268,Overweight,40,1,48,M,P.HARIHARAN
+,534,-4,-2,0,5,5,2,0,0,0,-5,12,Tamasic,Medium,5.3,43,16.47732816,UnderWeight,10,1,22,M,VISHNU.M
+,535,4,2,-4,5,4,0,0,0,0,9,9,Rajasic,Low,5.2,49,19.50560689,Normal,40,3,49,M,P.HARISH
+,536,0,2,2,5,1,0,0,0,0,-1,6,Tamasic,Low,5.7,57,18.88405336,Normal,10,3,16,M,P.KARUPPASAMY
+,537,4,6,2,5,5,1,0,0,0,5,11,Rajasic,Medium,5.9,77,23.80985642,Normal,40,3,51,M,KANAGARAJ.S
+,538,-6,2,-8,5,4,0,0,0,0,3,9,Rajasic,Low,5.6,48,16.47537309,UnderWeight,40,1,49,M,sritharan.n
+,539,2,6,0,5,5,2,0,0,0,5,12,Rajasic,Medium,5.5,65,23.12906371,Normal,40,3,52,M,S.VINOTH
+,540,-6,6,-4,5,4,0,0,0,0,1,9,Rajasic,Low,5.6,52,17.84832084,UnderWeight,40,1,49,M,S.SANJEEV KUMAR
+,541,0,4,-4,5,5,0,0,0,0,6,10,Rajasic,Medium,5.8,63,20.15833401,Normal,40,3,50,M,S.TAMIL AZHAGAN
+,542,-4,4,-2,5,1,0,0,0,0,0,6,Rajasic,Low,5.6,63,21.62392718,Normal,40,3,46,M,J.NAVEEN RAJ
+,543,-2,10,2,5,5,0,0,0,0,1,10,Rajasic,Medium,5.7,58,19.21535254,Normal,40,3,50,M,M.NAVEEN KUMAR
+,544,-2,2,-6,5,5,3,0,0,0,5,13,Rajasic,Medium,5.9,59,18.24391596,Overweight,40,1,53,M,P.MUTHU RAMAN
+,545,4,6,0,5,5,2,0,0,0,7,12,Rajasic,Medium,5.1,65,26.89943011,Overweight,40,1,52,M,s.karthick
+,546,-4,4,-6,5,1,0,0,0,0,4,6,Rajasic,Low,165,59,0.023326748,Overweight,40,1,46,M,dhrama durai.p
+,547,-4,2,0,5,5,2,0,0,0,-3,12,Tamasic,Medium,5.5,59,20.99407321,Normal,10,3,22,M,ARUN PRASATH.R
+,548,-2,2,-4,5,3,0,0,0,0,3,8,Rajasic,Low,5.6,67,22.99687493,Normal,40,3,48,M,A.MANOJ
+,549,4,8,-2,5,5,0,0,0,0,10,10,Rajasic,Medium,5.4,55,20.30230017,Normal,40,3,50,M,SATHISH.S
+,550,-2,4,-2,5,5,0,0,0,0,2,10,Rajasic,Medium,5.9,53,16.38860247,UnderWeight,40,1,50,M,Anguraj.N
+,551,0,8,0,5,5,0,0,0,0,4,10,Rajasic,Medium,5.6,61,20.9374533,Normal,40,3,50,M,B.MANIGANDAN
+,552,4,8,-2,5,5,4,0,0,0,10,14,Rajasic,Medium,5.11,54,22.25983979,Normal,40,3,54,M,H.PRINCE
+,553,2,10,2,5,5,0,0,0,0,5,10,Rajasic,Medium,5.3,54,20.69245862,Normal,40,3,50,M,p.jeevaprasanth
+,554,8,6,-10,5,5,5,1,0,0,21,16,Sattvic,Medium,5.6,43,14.75918839,Overweight,70,1,86,M,N.RAVI SHANKAR
+,555,0,6,-4,5,5,2,0,0,0,7,12,Rajasic,Medium,5.5,56,19.92657796,Normal,40,3,52,M,A.SATHIYAMOORTHI
+,556,6,10,-4,5,5,1,0,0,0,15,11,Sattvic,Medium,5.8,69,22.07817535,Normal,70,3,81,M,D.SRINIVAS
+,557,0,6,4,5,5,0,0,0,0,-1,10,Tamasic,Medium,5.9,70,21.64532402,Normal,10,3,20,M,R.PRASHANTH
+,558,0,8,0,5,5,3,0,0,0,4,13,Rajasic,Medium,5.9,54,16.69782139,UnderWeight,40,1,53,M,S.SARAVANAN
+,559,-4,-4,4,5,4,0,0,0,0,-10,9,Tamasic,Low,5.5,55,19.57074621,Normal,10,3,19,M,K.PANDARINATHAN
+,560,0,10,-2,5,3,0,0,0,0,7,8,Rajasic,Low,5.6,56,19.2212686,Normal,40,3,48,M,K GOPI
+,561,0,8,4,5,4,0,0,0,0,0,9,Rajasic,Low,5.9,68,21.02688619,Normal,40,3,49,M,P.LAKSHMANAPATHI
+,562,-6,8,2,5,0,0,0,0,0,-4,5,Tamasic,Low,5.4,65,23.99362747,Normal,10,3,15,M,S.POOVARASAN
+,563,0,6,-4,5,5,4,0,0,0,7,14,Rajasic,Medium,5.8,60,19.19841335,Normal,40,3,54,M,Arun kumar.R
+,564,-8,2,-10,5,5,0,0,0,0,3,10,Rajasic,Medium,57,64,0.212031476,Overweight,40,1,50,M,C.VIJAYAKUMAR
+,565,-2,8,-6,5,5,5,0,0,0,8,15,Rajasic,Medium,6,67,20.03283328,Normal,40,3,55,M,KARTHI KEYAN.S
+,566,-4,0,2,5,5,2,0,0,0,-6,12,Tamasic,Medium,6.5,55,14.01219108,Overweight,10,1,22,M,P.MANICKAM
+,567,2,6,2,5,5,2,0,0,0,3,12,Rajasic,Medium,5.9,57,17.62547813,UnderWeight,40,1,52,M,GANDHIRAJ K
+,568,-2,4,6,5,5,1,0,0,0,-6,11,Tamasic,Medium,5.1,54,22.34721886,Normal,10,3,21,M,C.PRAVEEN
+,569,0,2,2,5,4,0,0,0,0,-1,9,Tamasic,Low,5.3,64,24.5243954,Normal,10,3,19,M,p.karthickkumar
+,570,0,6,-10,5,5,4,0,0,0,13,14,Sattvic,Medium,5.7,65,21.53444682,Normal,70,3,84,M,K.NITHISH
+,571,0,8,-4,5,4,0,0,0,0,8,9,Rajasic,Low,5.7,60,19.87795091,Normal,40,3,49,M,ESWARA MOORTHI . C
+,572,0,2,-8,5,5,5,0,0,0,9,15,Rajasic,Medium,5.9,62,19.1715727,Normal,40,3,55,M,R.PARTHIBAN
+,573,-4,6,0,5,5,0,0,0,0,-1,10,Tamasic,Medium,5.6,48,16.47537309,UnderWeight,10,1,20,M,K.VIGNESHKUMAR
+,574,0,2,0,5,5,2,0,0,0,1,12,Rajasic,Medium,5.5,53,18.85908271,Normal,40,3,52,M,A.SELVAKUMAR
+,575,2,-2,0,5,5,4,0,0,0,1,14,Rajasic,Medium,5.7,50,16.56495909,UnderWeight,40,1,54,M,A.RAVIKUMAR
+,576,4,6,-4,5,5,3,0,0,0,11,13,Sattvic,Medium,5.02,51,21.78375864,Normal,70,3,83,M,YASAR  ARAFATH.M
+,577,-2,6,-2,5,4,0,0,0,0,3,9,Rajasic,Low,5.5,51,18.14741921,Overweight,40,1,49,M,V.MANIKANDAN
+,578,-4,10,-2,5,2,0,0,0,0,3,7,Rajasic,Low,5.8,47,15.03875712,Overweight,40,1,47,M,MAHENDRAN.G
+,579,0,6,-2,5,4,0,0,0,0,5,9,Rajasic,Low,5.5,43,15.30076522,Overweight,40,1,49,M,E.VIGNESH
+,580,0,6,-6,5,3,0,0,0,0,9,8,Rajasic,Low,5.1,44,18.208845,Overweight,40,1,48,M,A.VIMALAN
+,581,-4,4,-6,5,5,1,0,0,0,4,11,Rajasic,Medium,5.4,46,16.9801056,UnderWeight,40,1,51,M,B.SHAKTHIVIGNESH
+,582,-2,6,-4,5,5,0,0,0,0,5,10,Rajasic,Medium,5.3,41,15.7109408,Overweight,40,1,50,M,ASHOK.C
+,583,0,4,-6,5,4,0,0,0,0,8,9,Rajasic,Low,5.5,46,16.36826047,UnderWeight,40,1,49,M,M.MOHAMED AZAR
+,584,-4,6,-2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.8,52,16.6386249,UnderWeight,40,1,51,M,ALAGAR RAJA
+,585,-4,10,-4,5,5,2,0,0,0,5,12,Rajasic,Medium,5.1,56,23.17489363,Normal,40,3,52,M,G.LOGANATHAN
+,586,2,10,-4,5,5,1,0,0,0,11,11,Sattvic,Medium,5.5,82,29.17820344,Overweight,70,1,81,M,ASAK
+,587,-4,8,-8,5,5,3,0,0,0,8,13,Rajasic,Medium,5.7,50,16.56495909,UnderWeight,40,1,53,M,KARTHIK.S
+,588,-2,8,-2,5,5,4,0,0,0,4,14,Rajasic,Medium,5.4,65,23.99362747,Normal,40,3,54,M,SARATH KUMAR.K
+,589,-6,8,0,5,5,0,0,0,0,-2,10,Tamasic,Medium,5.4,46,16.9801056,UnderWeight,10,1,20,M,K.PALANISAMY
+,590,6,6,-6,5,1,0,0,0,0,15,6,Sattvic,Low,5.3,43,16.47732816,UnderWeight,70,1,76,M,S.SANKAR
+,591,-2,0,-4,5,4,0,0,0,0,2,9,Rajasic,Low,5.7,62,20.54054927,Normal,40,3,49,M,K.RAHMAN
+,592,-4,10,-4,5,3,0,0,0,0,5,8,Rajasic,Low,5.7,54,17.89015582,UnderWeight,40,1,48,M,A.MOHAN KUMAR
+,593,2,4,0,5,3,0,0,0,0,4,8,Rajasic,Low,5.7,54,17.89015582,UnderWeight,40,1,48,M,R.VIGNESH
+,594,0,4,-4,5,5,5,2,0,0,6,17,Rajasic,Medium,5.2,59,23.486343,Normal,40,3,57,M,AJAY S
+,596,0,6,-2,5,5,4,0,0,0,5,14,Rajasic,Medium,5.1,65,26.89943011,Overweight,40,1,54,M,UMASANKAR.G.
+,597,-4,4,-6,5,5,4,0,0,0,4,14,Rajasic,Medium,5.7,52,17.22755745,UnderWeight,40,1,54,M,pradeep
+,598,-4,6,-4,4,0,0,0,0,0,3,4,Rajasic,Low,5,46,19.80559517,Normal,40,3,44,M,S.RAMPRASAD
+,599,0,6,2,5,5,2,0,0,0,1,12,Rajasic,Medium,5.9,54,16.69782139,UnderWeight,40,1,52,M,R.Praveenkumar
+,600,-4,-2,2,5,2,0,0,0,0,-7,7,Tamasic,Low,5.5,55,19.57074621,Normal,10,3,17,M,P.LOGESH
+,601,4,8,-2,5,1,0,0,0,0,10,6,Rajasic,Low,5.8,87,27.83769935,Overweight,40,1,46,M,JAGANATHAN.R
+,602,-4,8,-6,5,5,1,0,0,0,6,11,Rajasic,Medium,5.11,64,26.38203234,Overweight,40,1,51,M,m.arun kumar
+,603,0,8,-2,5,5,2,0,0,0,6,12,Rajasic,Medium,5.7,47,15.57106154,Overweight,40,1,52,M,v.dinesh
+,604,-4,0,-2,5,5,1,0,0,0,-2,11,Tamasic,Medium,5.6,47,16.13213615,UnderWeight,10,1,21,M,N.GOVINDARAJ
+,605,2,8,0,5,5,5,0,0,0,6,15,Rajasic,Medium,5.6,68,23.34011187,Normal,40,3,55,M,M.MURALI
+,606,4,4,0,5,5,1,0,0,0,6,11,Rajasic,Medium,5.7,47,15.57106154,Overweight,40,1,51,M,y.askar gani
+,607,-6,6,-8,5,3,0,0,0,0,5,8,Rajasic,Low,5.11,95,39.16082925,Overweight,40,1,48,M,a.dinesh kumar
+,608,6,2,-2,5,2,0,0,0,0,9,7,Rajasic,Low,5.1,77,31.86547874,Overweight,40,1,47,M,C.HARIHARAN
+,609,-4,8,-8,5,5,3,0,0,0,8,13,Rajasic,Medium,5.7,51,16.89625827,UnderWeight,40,1,53,M,Kumaravel.M
+,610,6,8,0,5,5,2,0,0,0,10,12,Rajasic,Medium,5.8,53,16.95859846,UnderWeight,40,1,52,M,S.Jaya ganesh
+,611,-4,-2,0,5,5,2,0,0,0,-5,12,Tamasic,Medium,5.9,53,16.38860247,UnderWeight,10,1,22,M,Naveenkumar.R
+,612,4,10,-2,5,5,5,3,0,0,11,18,Sattvic,Medium,5.7,51,16.89625827,UnderWeight,70,1,88,M,dinesh.m
+,613,2,8,-2,5,5,4,0,0,0,8,14,Rajasic,Medium,5.3,39,14.94455344,Overweight,40,1,54,M,Arun Prasath.S
+,614,0,6,-6,5,5,0,0,0,0,9,10,Rajasic,Medium,5.6,57,19.56450554,Normal,40,3,50,M,J.Jaison
+,615,-2,10,-2,5,5,2,0,0,0,5,12,Rajasic,Medium,5.9,60,18.55313488,Normal,40,3,52,M,ashwinchandar.a
+,616,0,8,-2,5,5,3,0,0,0,6,13,Rajasic,Medium,5.1,69,28.55477965,Overweight,40,1,53,M,Balaji.J
+,617,2,8,-6,5,5,0,0,0,0,12,10,Sattvic,Medium,5.11,60,24.73315532,Normal,70,3,80,M,Boopathi.k
+,618,6,6,-6,5,5,5,2,0,0,15,17,Sattvic,Medium,5.8,51,16.31865135,UnderWeight,70,1,87,M,lalith kumar.a
+,619,-4,10,4,5,5,5,4,0,0,-3,19,Tamasic,Medium,6.1,67,19.38140279,Normal,10,3,29,M,sathishvasan.v
+,620,6,10,-4,5,5,5,3,0,0,15,18,Sattvic,Medium,5.7,54,17.89015582,UnderWeight,70,1,88,M,Karthikeyan.m
+,621,0,8,4,5,5,2,0,0,0,0,12,Rajasic,Medium,5.1,47,19.45035715,Normal,40,3,52,M,KISHORE.K
+,622,-2,4,0,5,5,2,0,0,0,0,12,Rajasic,Medium,5.8,58,18.55846624,Normal,40,3,52,M,KARTHICK.M
+,623,4,6,2,5,5,5,1,0,0,5,16,Rajasic,Medium,5.9,57,17.62547813,UnderWeight,40,1,56,M,GOWTHAM.B
+,624,0,2,-2,5,4,0,0,0,0,3,9,Rajasic,Low,5.3,73,27.9731385,Overweight,40,1,49,M,ARJITH KRISHNAN.R
+,625,4,6,-4,5,5,5,3,0,0,11,18,Sattvic,Medium,5.9,73,22.57298076,Normal,70,3,88,M,JAYAPRAKASH.S
+,626,0,0,-2,5,5,3,0,0,0,2,13,Rajasic,Medium,5.6,60,20.59421636,Normal,40,3,53,M,arun kumar.m
+,627,4,10,-8,5,5,5,2,0,0,17,17,Sattvic,Medium,5.8,70,22.39814891,Normal,70,3,87,M,Muthu vignesh.k
+,628,0,6,-2,5,5,5,0,0,0,5,15,Rajasic,Medium,5.8,45,14.39881001,Overweight,40,1,55,M,PRANESH.D
+,629,-4,2,0,5,5,2,0,0,0,-3,12,Tamasic,Medium,5.5,65,23.12906371,Normal,10,3,22,M,RAJKUMAR.M
+,630,0,6,-8,5,5,5,2,0,0,11,17,Sattvic,Medium,5.7,49,16.23365991,UnderWeight,70,1,87,M,RAGUL.S
+,631,4,6,6,5,5,1,0,0,0,1,11,Rajasic,Medium,5.3,46,17.62690919,UnderWeight,40,1,51,M,m.prakash
+,632,-6,6,-2,5,5,2,0,0,0,-1,12,Tamasic,Medium,5.6,46,15.78889921,Overweight,10,1,22,M,ROOBAN.S
+,633,-2,-2,-2,5,5,1,0,0,0,-1,11,Tamasic,Medium,5.8,73,23.35806957,Normal,10,3,21,M,SRIDHARAN.M
+,634,-4,10,-2,5,3,0,0,0,0,3,8,Rajasic,Low,5.1,73,30.2101292,Overweight,40,1,48,M,BALA CHANDAR.M
+,635,8,8,-6,5,5,5,3,0,0,18,18,Sattvic,Medium,5.1,57,23.58873102,Normal,70,3,88,M,SATHYA PRAKASH.S
+,636,-2,8,-2,5,5,2,0,0,0,4,12,Rajasic,Medium,5.9,49,15.15172681,Overweight,40,1,52,M,SATHISHKUMAR.K
+,637,2,10,-4,5,5,1,0,0,0,11,11,Sattvic,Medium,5.7,63,20.87184845,Normal,70,3,81,M,SATHIYARAJ .SM
+,638,-4,2,-4,5,3,0,0,0,0,1,8,Rajasic,Low,5.5,47,16.72409222,UnderWeight,40,1,48,M,SARAVANAN.H
+,639,0,4,-4,5,5,2,0,0,0,6,12,Rajasic,Medium,5.3,53,20.30926494,Normal,40,3,52,M,SANTHOSH.R
+,640,-4,8,-2,5,5,3,0,0,0,2,13,Rajasic,Medium,5.5,53,18.85908271,Normal,40,3,53,M,G.Ramesh
+,641,-2,8,0,5,5,1,0,0,0,2,11,Rajasic,Medium,5.6,51,17.5050839,UnderWeight,40,1,51,M,sandeep kumar.v
+,642,-2,6,-6,5,1,0,0,0,0,7,6,Rajasic,Low,5.5,57,20.28240971,Normal,40,3,46,M,UDHYA KUMAR.B.C
+,643,2,4,-6,5,5,5,0,0,0,10,15,Rajasic,Medium,5.3,54,20.69245862,Normal,40,3,55,M,SURIYA RAJ.N
+,644,4,6,-6,5,5,5,3,0,0,13,18,Sattvic,Medium,5.11,80,32.97754043,Overweight,70,1,88,M,Veeramani.M
+,645,0,4,-6,5,5,4,0,0,0,8,14,Rajasic,Medium,5.8,67,21.43822824,Normal,40,3,54,M,J.Vignesh Babu
+,646,0,8,-2,5,5,0,0,0,0,6,10,Rajasic,Medium,5.3,43,16.47732816,UnderWeight,40,1,50,M,tamilarasan.d
+,647,10,8,-4,5,5,5,3,0,0,18,18,Sattvic,Medium,6,72,21.52782083,Normal,70,3,88,M,VINOTH.C
+,648,-4,0,-8,5,5,4,0,0,0,4,14,Rajasic,Medium,5.8,72,23.03809602,Normal,40,3,54,M,SIVASUNDARAM.R
+,649,4,6,-6,5,5,5,2,0,0,13,17,Sattvic,Medium,5.6,64,21.96716412,Normal,70,3,87,M,MURALISHANKAR.A
+,650,0,8,0,5,4,0,0,0,0,4,9,Rajasic,Low,5.9,55,17.0070403,UnderWeight,40,1,49,M,vignesh.c
+,651,-6,4,0,5,5,2,0,0,0,-4,12,Tamasic,Medium,5.5,53,18.85908271,Normal,10,3,22,M,vasimalai.n
+,652,-6,2,-2,5,2,0,0,0,0,-3,7,Tamasic,Low,5.3,47,18.01010287,Overweight,10,1,17,M,M.THIYAGHU
+,653,2,6,-4,5,5,2,0,0,0,9,12,Rajasic,Medium,5.1,60,24.83024318,Normal,40,3,52,M,SANKAR.D
+,654,4,4,-4,5,5,3,0,0,0,10,13,Rajasic,Medium,5.9,58,17.93469705,UnderWeight,40,1,53,M,ARUN.R
+,655,-4,8,-4,5,4,0,0,0,0,4,9,Rajasic,Low,5.9,64,19.79001053,Normal,40,3,49,M,MANIVANNAN.S
+,656,2,8,-2,5,5,5,2,0,0,8,17,Rajasic,Medium,5.1,57,23.58873102,Normal,40,3,57,M,DINESHKUMAR.D
+,657,0,8,-2,5,5,5,5,2,0,6,22,Rajasic,High,5.7,56,18.55275418,Normal,40,3,62,M,ARUN PRASATH.M
+,658,-8,4,-8,5,5,4,0,0,0,2,14,Rajasic,Medium,5.6,53,18.19155778,Overweight,40,1,54,M,MOHAN.P
+,659,0,8,-2,5,5,5,1,0,0,6,16,Rajasic,Medium,6.1,71,20.53850147,Normal,40,3,56,M,PRATHAP.K
+,660,2,4,-4,5,5,1,0,0,0,8,11,Rajasic,Medium,5.7,66,21.865746,Normal,40,3,51,M,ADHAVAN.T
+,661,0,2,-8,5,5,5,0,0,0,9,15,Rajasic,Medium,5.9,60,18.55313488,Normal,40,3,55,M,PRASANTH.S
+,662,-2,2,-4,5,5,5,1,0,0,3,16,Rajasic,Medium,5.8,49,15.67870423,Overweight,40,1,56,M,GOBINATH.R
+,663,-2,4,-4,5,5,5,0,0,0,4,15,Rajasic,Medium,5.1,46,19.03651977,Normal,40,3,55,M,YUVARAJ.D
+,664,2,6,-6,5,5,5,3,0,0,11,18,Sattvic,Medium,6,74,22.12581586,Normal,70,3,88,M,ABUL THAKEER.S
+,665,0,8,-2,5,5,5,1,0,0,6,16,Rajasic,Medium,5.5,45,16.01242872,UnderWeight,40,1,56,M,MATHAN KUMAR.S
+,666,2,4,-6,5,5,4,0,0,0,10,14,Rajasic,Medium,6,79,23.62080341,Normal,40,3,54,M,SARAVANAK KUMAR.K
+,667,0,0,-4,5,5,3,0,0,0,4,13,Rajasic,Medium,5.8,53,16.95859846,UnderWeight,40,1,53,M,K.Gunasekaran
+,668,-4,0,-4,5,5,5,1,0,0,0,16,Rajasic,Medium,5.6,48,16.47537309,UnderWeight,40,1,56,M,SARAVANAKUMAR.N
+,669,-6,8,-6,5,5,2,0,0,0,4,12,Rajasic,Medium,5.6,50,17.16184697,UnderWeight,40,1,52,M,NALLASAMY.T
+,670,0,4,2,5,4,0,0,0,0,0,9,Rajasic,Low,5.3,52,19.92607126,Normal,40,3,49,M,RADHAKRISHNAN
+,671,4,8,-4,5,5,5,1,0,0,12,16,Sattvic,Medium,5.7,58,19.21535254,Normal,70,3,86,M,B.NAVEEN KUMAR
+,672,-2,6,-4,5,5,1,0,0,0,5,11,Rajasic,Medium,5.5,57,20.28240971,Normal,40,3,51,M,S.NAVANEETHAKRISHNAN
+,673,-2,8,-6,5,5,2,0,0,0,8,12,Rajasic,Medium,5.2,46,18.31138606,Overweight,40,1,52,M,M.MANIKANDAN
+,674,-2,2,-10,5,5,5,0,0,0,9,15,Rajasic,Medium,5.9,48,14.8425079,Overweight,40,1,55,M,ARUNKARTHICK.K
+,675,4,8,0,5,5,5,5,0,0,8,20,Rajasic,Medium,5.3,39,14.94455344,Overweight,40,1,60,F,H.DHANARANJANI
+,676,-6,4,-10,5,3,0,0,0,0,6,8,Rajasic,Low,5.6,60,20.59421636,Normal,40,3,48,F,D.Sonia
+,677,2,8,-2,5,5,5,5,1,0,8,21,Rajasic,High,5.8,50,15.99867779,Overweight,40,1,61,F,ANITHA.D
+,678,4,10,2,5,4,0,0,0,0,7,9,Rajasic,Low,5.2,50,19.9036805,Normal,40,3,49,F,P.Stella
+,679,0,6,-2,5,5,0,0,0,0,5,10,Rajasic,Medium,5.4,45,16.61097287,UnderWeight,40,1,50,F,RAMIJA BEGAM.M
+,680,-2,6,-4,5,5,4,0,0,0,5,14,Rajasic,Medium,5.2,42,16.71909162,UnderWeight,40,1,54,F,REVATHI.N
+,681,2,8,2,5,5,2,0,0,0,4,12,Rajasic,Medium,4.8,40,18.68734447,Normal,40,3,52,F,R.Aarthi
+,682,6,10,6,5,5,5,5,1,0,5,21,Rajasic,High,5.2,45,17.91331245,UnderWeight,40,1,61,F,G.Reena
+,683,-2,6,-4,5,5,2,0,0,0,5,12,Rajasic,Medium,4.8,43,20.08889531,Normal,40,3,52,F,KRISHNA PRIYA.K.K
+,684,-2,6,-6,5,5,3,0,0,0,7,13,Rajasic,Medium,4.8,40,18.68734447,Normal,40,3,53,F,SHEMEEMA.H
+,685,4,8,4,5,5,5,1,0,0,4,16,Rajasic,Medium,4.2,38,23.18756212,Normal,40,3,56,F,KOGILAVANI.K
+,686,0,6,0,5,5,3,0,0,0,3,13,Rajasic,Medium,5.5,56,19.92657796,Normal,40,3,53,F,S.Chinthamani
+,687,0,2,-4,5,5,1,0,0,0,5,11,Rajasic,Medium,5.2,46,18.31138606,Overweight,40,1,51,F,K.L.Saritha
+,688,2,10,-6,5,5,5,5,2,0,13,22,Sattvic,High,5.4,42,15.50357467,Overweight,70,1,92,F,S.SARANYA
+,689,8,10,-2,5,5,5,4,0,0,15,19,Sattvic,Medium,5.4,48,17.71837106,UnderWeight,70,1,89,F,M.Shanthi
+,690,4,6,0,5,5,3,0,0,0,7,13,Rajasic,Medium,132,38,0.023475011,Overweight,40,1,53,F,sengothaiyammal
+,691,6,10,-4,5,5,5,2,0,0,15,17,Sattvic,Medium,5.2,49,19.50560689,Normal,70,3,87,F,B.Akilabanu
+,692,-4,4,-4,5,5,5,3,0,0,2,18,Rajasic,Medium,5.3,40,15.32774712,Overweight,40,1,58,F,Vaithegi Priya
+,693,4,8,0,5,5,0,0,0,0,8,10,Rajasic,Medium,4.8,40,18.68734447,Normal,40,3,50,F,MONISHA.R
+,694,6,8,0,5,5,5,5,1,0,10,21,Rajasic,High,158,48,0.020696511,Overweight,40,1,61,F,P.BARATHI
+,695,4,8,-2,5,5,3,0,0,0,10,13,Rajasic,Medium,5.2,47,18.70945967,Normal,40,3,53,F,GAYATHIRI.S
+,696,2,10,6,5,5,4,0,0,0,1,14,Rajasic,Medium,4.8,33,15.41705919,Overweight,40,1,54,F,GOKILA.V
+,697,4,10,6,5,0,0,0,0,0,3,5,Rajasic,Low,5,45,19.37503875,Normal,40,3,45,F,KAKSHMI.G
+,698,0,2,0,5,5,5,0,0,0,1,15,Rajasic,Medium,4.4,40,22.23948433,Normal,40,3,55,F,NARTHAGI.T.R
+,699,4,8,-4,5,5,5,5,1,0,12,21,Sattvic,High,5.1,40,16.55349545,UnderWeight,70,1,91,F,A.Famitha
+,700,6,2,0,5,5,5,3,0,0,7,18,Rajasic,Medium,5.5,46,16.36826047,UnderWeight,40,1,58,F,SIMI MATHEW
+,701,0,4,0,5,5,5,0,0,0,2,15,Rajasic,Medium,148.6,48,0.023397728,Overweight,40,1,55,F,D.ANTHONIRABITHA
+,702,4,6,-2,5,5,5,5,4,0,9,24,Rajasic,High,5.1,42,17.38117022,UnderWeight,40,1,64,F,A.M.Ameena Begum
+,703,-4,8,-4,5,4,0,0,0,0,4,9,Rajasic,Low,4.2,35,21.35696511,Normal,40,3,49,F,SINDHUJA.A
+,704,8,10,-2,5,5,5,5,2,0,15,22,Sattvic,High,5.6,48,16.47537309,UnderWeight,70,1,92,F,DEEPA.U
+,705,0,2,0,5,5,5,4,0,0,1,19,Rajasic,Medium,4.8,50,23.35918059,Normal,40,3,59,F,REVATHI.V
+,706,2,8,-2,5,5,5,5,1,0,8,21,Rajasic,High,5.5,40,14.23326997,Overweight,40,1,61,F,K.Nasriya Fahmena
+,707,8,10,-4,5,5,5,5,3,0,17,23,Sattvic,High,5.2,48,19.10753328,Normal,70,3,93,F,C.SHALINI
+,708,4,2,0,5,5,5,1,0,0,5,16,Rajasic,Medium,3.6,38,31.56084844,Overweight,40,1,56,F,KALAISELVI.C
+,709,4,8,-2,5,5,2,0,0,0,10,12,Rajasic,Medium,4.95,40,17.57193824,UnderWeight,40,1,52,F,MEGALA.P
+,710,2,10,0,4,0,0,0,0,0,7,4,Rajasic,Low,4.2,38,23.18756212,Normal,40,3,44,F,K.B.JANAGI
+,711,4,8,-2,5,5,3,0,0,0,10,13,Rajasic,Medium,4.5,48,25.51445432,Overweight,40,1,53,F,ABIRAMI.S
+,712,4,8,6,5,5,5,1,0,0,2,16,Rajasic,Medium,4.2,32,19.5263681,Normal,40,3,56,F,MONISHA.L
+,713,2,4,-2,5,5,5,4,0,0,6,19,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,59,F,NISHANTHI.S
+,714,-2,2,-2,5,2,0,0,0,0,1,7,Rajasic,Low,5.3,50,19.1596839,Normal,40,3,47,F,D.Mythili
+,716,4,8,6,5,5,1,0,0,0,2,11,Rajasic,Medium,4.6,30,15.26074256,Overweight,40,1,51,F,KANCHANA.M
+,717,4,8,6,5,3,0,0,0,0,2,8,Rajasic,Low,4.3,36,20.95731612,Normal,40,3,48,F,S.MONISHA
+,718,-2,10,-4,5,4,0,0,0,0,7,9,Rajasic,Low,5.2,52,20.69982772,Normal,40,3,49,F,M.Shabeena
+,719,6,8,-4,5,5,5,5,0,0,14,20,Sattvic,Medium,4.7,42,20.46556077,Normal,70,3,90,F,PARAMESHWARI.N
+,720,8,10,-4,5,5,5,4,0,0,17,19,Sattvic,Medium,5.6,42,14.41595145,Overweight,70,1,89,F,GLADYS.G
+,721,-2,8,-2,5,5,5,0,0,0,4,15,Rajasic,Medium,4.7,42,20.46556077,Normal,40,3,55,F,CHITRA.S
+,723,2,6,2,5,5,5,4,0,0,3,19,Rajasic,Medium,4.8,45,21.02326253,Normal,40,3,59,F,CHITRA.M
+,724,0,2,2,5,5,5,3,0,0,-1,18,Tamasic,Medium,4.8,40,18.68734447,Normal,10,3,28,F,R.MANIMEGALA
+,725,2,10,-4,5,5,5,5,1,0,11,21,Sattvic,High,4.5,42,22.32514753,Normal,70,3,91,F,SHRMILA DEVI.C
+,726,8,8,-4,5,5,5,4,0,0,16,19,Sattvic,Medium,5.4,45,16.61097287,UnderWeight,70,1,89,F,INDIRANI.M
+,727,10,10,6,5,5,1,0,0,0,9,11,Rajasic,Medium,5.3,45,17.24371551,UnderWeight,40,1,51,F,S.Maragatham
+,728,8,6,-2,5,5,5,3,0,0,13,18,Sattvic,Medium,5.1,48,19.86419454,Normal,70,3,88,F,BUVANESHWARI.B
+,729,0,6,2,5,5,5,4,0,0,1,19,Rajasic,Medium,5.7,43,14.24586482,Overweight,40,1,59,F,D.PRIYANKA
+,730,8,2,0,5,5,5,5,1,0,9,21,Rajasic,High,5.6,46,15.78889921,Overweight,40,1,61,F,SUMISHA.K.B
+,731,-2,8,-2,5,5,5,5,1,0,4,21,Rajasic,High,4.5,35,18.60428961,Normal,40,3,61,F,SANGEETHA.S
+,732,2,6,-2,5,5,5,5,0,0,7,20,Rajasic,Medium,4.5,40,21.26204527,Normal,40,3,60,F,M.KOKILA
+,733,6,4,2,5,5,3,0,0,0,6,13,Rajasic,Medium,4.8,48,22.42481337,Normal,40,3,53,F,NANDANIPRIYA.V
+,734,8,6,-2,5,5,5,0,0,0,13,15,Sattvic,Medium,4.8,41,19.15452809,Normal,70,3,85,F,THARANYA.S
+,735,0,0,-4,5,5,5,4,0,0,4,19,Rajasic,Medium,5,40,17.22225667,UnderWeight,40,1,59,F,S.PUGALARASI
+,736,4,10,-6,5,5,5,5,0,0,15,20,Sattvic,Medium,5,41,17.65281308,UnderWeight,70,1,90,F,SHEFANATH.S
+,737,-6,4,-2,5,5,2,0,0,0,-2,12,Tamasic,Medium,5,48,20.666708,Normal,10,3,22,F,GOWRI.K
+,738,2,2,-4,5,5,5,4,0,0,7,19,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,59,F,N.PRIYANKA
+,739,-6,2,-8,5,3,0,0,0,0,3,8,Rajasic,Low,5.5,42,14.94493347,Overweight,40,1,48,F,S.Nandhini
+,740,-10,-2,-10,5,5,2,0,0,0,-1,12,Tamasic,Medium,5.6,47,16.13213615,UnderWeight,10,1,22,F,MEERA.V
+,741,0,4,-2,5,5,5,5,2,0,4,22,Rajasic,High,4.8,50,23.35918059,Normal,40,3,62,F,L.SABINA
+,742,0,10,4,5,5,0,0,0,0,1,10,Rajasic,Medium,5.3,43,16.47732816,UnderWeight,40,1,50,F,D.Rubini
+,743,-10,-8,-10,5,5,0,0,0,0,-4,10,Tamasic,Medium,5.3,49,18.77649022,Normal,10,3,20,F,VINOTHINI
+,744,-10,-4,-10,5,5,2,0,0,0,-2,12,Tamasic,Medium,5.2,40,15.9229444,Overweight,10,1,22,F,POORNIMA.V
+,745,-6,6,-6,5,4,0,0,0,0,3,9,Rajasic,Low,5.4,40,14.76530921,Overweight,40,1,49,F,N.Revathi
+,746,-2,6,0,5,0,0,0,0,0,1,5,Rajasic,Low,5.1,48,19.86419454,Normal,40,3,45,F,DHANALAKSHMI
+,747,-6,6,4,5,2,0,0,0,0,-7,7,Tamasic,Low,5.1,38,15.72582068,Overweight,10,1,17,F,M.R.Kousalya
+,748,6,10,0,5,2,0,0,0,0,11,7,Sattvic,Low,5.3,42,16.09413448,UnderWeight,70,1,77,F,SARANYA.P
+,749,0,8,4,5,4,0,0,0,0,0,9,Rajasic,Low,5.3,50,19.1596839,Normal,40,3,49,F,GANDHIMATHI.V
+,750,-6,4,-6,5,2,0,0,0,0,2,7,Rajasic,Low,5.1,46,19.03651977,Normal,40,3,47,F,N.Kasthuri
+,751,0,8,4,5,3,0,0,0,0,0,8,Rajasic,Low,5.2,40,15.9229444,Overweight,40,1,48,F,SELVI.S
+,752,2,2,-4,5,5,5,1,0,0,7,16,Rajasic,Medium,5.3,48,18.39329655,Overweight,40,1,56,F,P.DHEENA
+,753,-2,0,-2,5,5,5,0,0,0,0,15,Rajasic,Medium,5.4,54,19.93316744,Normal,40,3,55,F,P.NONOUPIA
+,754,-4,8,0,5,4,0,0,0,0,0,9,Rajasic,Low,5.6,55,18.87803166,Normal,40,3,49,F,P.Priyanga
+,756,2,2,-4,5,5,5,0,0,0,7,15,Rajasic,Medium,1.54,43,195.1628217,Overweight,40,1,55,F,S.NITHYA
+,757,0,0,-4,5,5,5,4,0,0,4,19,Rajasic,Medium,5.3,42,16.09413448,UnderWeight,40,1,59,F,A.SLFIA PARVINU
+,758,-8,-6,-6,5,4,0,0,0,0,-5,9,Tamasic,Low,5.3,42,16.09413448,UnderWeight,10,1,19,F,R.Prasheetha
+,759,2,4,0,5,5,5,2,0,0,4,17,Rajasic,Medium,5.06,47,19.75908816,Normal,40,3,57,F,C.LATHA
+,760,-10,-2,-10,5,3,0,0,0,0,-1,8,Tamasic,Low,5.2,55,21.89404855,Normal,10,3,18,F,M.Pavithra
+,761,-2,2,0,5,5,3,0,0,0,-1,13,Tamasic,Medium,5.6,50,17.16184697,UnderWeight,10,1,23,F,K. SANGEETHA
+,762,2,8,-4,5,5,5,2,0,0,10,17,Rajasic,Medium,5.6,48,16.47537309,UnderWeight,40,1,57,F,M.CHANDRA PRIYA
+,763,-2,6,2,5,5,0,0,0,0,-1,10,Tamasic,Medium,5.1,46,19.03651977,Normal,10,3,20,F,S.mary sangeetha
+,764,2,8,-6,5,5,3,0,0,0,12,13,Sattvic,Medium,5.2,57,22.69019577,Normal,70,3,83,F,S. UMAMAHESHWARI
+,765,0,4,6,5,5,2,0,0,0,-4,12,Tamasic,Medium,5.3,40,15.32774712,Overweight,10,1,22,F,S. SAVITHRI
+,766,2,8,-4,5,5,4,0,0,0,10,14,Rajasic,Medium,5.4,60,22.14796382,Normal,40,3,54,F,M.deepa
+,767,4,10,0,5,5,5,4,0,0,9,19,Rajasic,Medium,5.3,42,16.09413448,UnderWeight,40,1,59,F,B.NANDHINI
+,768,6,6,4,5,5,5,4,0,0,5,19,Rajasic,Medium,5.3,37,14.17816609,Overweight,40,1,59,F,K.MAGETHA
+,769,6,8,6,5,5,5,0,0,0,4,15,Rajasic,Medium,5.2,43,17.11716523,UnderWeight,40,1,55,F,D.Monisha
+,770,0,6,2,5,2,0,0,0,0,1,7,Rajasic,Low,5.5,40,14.23326997,Overweight,40,1,47,F,R.vinothini
+,771,-8,-4,-10,5,4,0,0,0,0,0,9,Rajasic,Low,5.1,49,20.27803193,Normal,40,3,49,F,M.Devipriya
+,772,-10,2,-10,5,2,0,0,0,0,1,7,Rajasic,Low,5.6,49,16.81861003,UnderWeight,40,1,47,F,G.Thenmozhi
+,773,2,8,-2,5,5,5,5,2,0,8,22,Rajasic,High,5.1,40,16.55349545,UnderWeight,40,1,62,F,T.MEGALA
+,774,4,10,-2,5,5,5,5,1,0,11,21,Sattvic,High,5.3,52,19.92607126,Normal,70,3,91,F,M.MANYULA
+,775,-4,0,-2,5,5,4,0,0,0,-2,14,Tamasic,Medium,5.1,55,22.76105624,Normal,10,3,24,F,A.DEVIKA
+,776,2,10,-4,5,5,5,5,2,0,11,22,Sattvic,High,5.2,43,17.11716523,UnderWeight,70,1,92,F,B.NOORNISHA
+,777,-6,0,2,5,5,3,0,0,0,-8,13,Tamasic,Medium,4.7,40,19.49101026,Normal,10,3,23,F,S.Sritharani
+,778,-4,8,-2,5,5,5,1,0,0,2,16,Rajasic,Medium,5,50,21.52782083,Normal,40,3,56,F,C.VISAKHA
+,779,-2,8,-2,5,5,5,2,0,0,4,17,Rajasic,Medium,5.1,42,17.38117022,UnderWeight,40,1,57,F,T.H.FOUSIYA
+,780,0,10,8,5,5,4,0,0,0,-3,14,Tamasic,Medium,5.6,42,14.41595145,Overweight,10,1,24,F,P.manimekalai
+,781,4,4,0,5,5,4,0,0,0,6,14,Rajasic,Medium,5.2,42,16.71909162,UnderWeight,40,1,54,F,G.NAITHA
+,782,2,6,-6,5,5,5,5,2,0,11,22,Sattvic,High,4.9,40,17.93237887,UnderWeight,70,1,92,F,AMBIKA.A
+,783,0,6,-2,5,5,1,0,0,0,5,11,Rajasic,Medium,5.3,51,19.54287758,Normal,40,3,51,F,R.Nagarathinam
+,784,-2,8,-4,5,5,1,0,0,0,6,11,Rajasic,Medium,5.3,43,16.47732816,UnderWeight,40,1,51,F,PRANISHA.P
+,785,2,8,-8,5,5,5,5,1,0,14,21,Sattvic,High,5.4,54,19.93316744,Normal,70,3,91,F,PUNITHA ANTHONIAMMAL.S
+,786,0,6,2,5,5,5,2,0,0,1,17,Rajasic,Medium,5.4,44,16.24184013,UnderWeight,40,1,57,F,SHEEBA.J
+,787,8,10,8,5,4,0,0,0,0,5,9,Rajasic,Low,5.1,45,18.62268238,Normal,40,3,49,F,R.Ranjitha
+,788,6,6,-4,5,5,3,0,0,0,13,13,Sattvic,Medium,5.4,36,13.28877829,Overweight,70,1,83,F,IMPAMALAR.M
+,789,6,10,-2,5,3,0,0,0,0,13,8,Sattvic,Low,5.5,55,19.57074621,Normal,70,3,78,F,N.Thagira Banu
+,790,-2,2,-2,5,5,1,0,0,0,1,11,Rajasic,Medium,5,36,15.500031,Overweight,40,1,51,F,D.Divya
+,791,0,6,0,5,4,0,0,0,0,3,9,Rajasic,Low,5.2,35,13.93257635,Overweight,40,1,49,F,S.Priya
+,792,2,2,2,5,0,0,0,0,0,1,5,Rajasic,Low,5.3,48,18.39329655,Overweight,40,1,45,F,T.rani
+,793,6,8,8,5,1,0,0,0,0,2,6,Rajasic,Low,5.3,45,17.24371551,UnderWeight,40,1,46,F,M.Suganya
+,794,-6,6,-2,5,2,0,0,0,0,-1,7,Tamasic,Low,5,37,15.93058742,Overweight,10,1,17,F,M.Kavitha
+,795,-4,0,-6,5,5,1,0,0,0,2,11,Rajasic,Medium,5.6,50,17.16184697,UnderWeight,40,1,51,F,M.Tamilarasi
+,796,4,10,0,5,5,5,1,0,0,9,16,Rajasic,Medium,4.8,42,19.6217117,Normal,40,3,56,F,N.MONISHA
+,797,4,8,4,5,2,0,0,0,0,4,7,Rajasic,Low,5.2,45,17.91331245,UnderWeight,40,1,47,F,k.Anusuya
+,798,4,8,4,5,2,0,0,0,0,4,7,Rajasic,Low,5,42,18.0833695,Overweight,40,1,47,F,S.Sheeba
+,799,4,8,4,5,2,0,0,0,0,4,7,Rajasic,Low,5.3,49,18.77649022,Normal,40,3,47,F,vidhya.K.H
+,800,-2,6,-4,5,2,0,0,0,0,5,7,Rajasic,Low,4.8,34,15.8842428,Overweight,40,1,47,F,karunambiga.c
+,801,10,10,6,5,5,3,0,0,0,9,13,Rajasic,Medium,4.5,40,21.26204527,Normal,40,3,53,F,Vimala.P
+,802,-2,4,-4,5,2,0,0,0,0,4,7,Rajasic,Low,5.2,38,15.12679718,Overweight,40,1,47,F,M.MONISHA
+,998,-6,-4,-6,5,5,0,0,0,0,-2,10,Tamasic,Medium,5.4,40,14.76530921,Overweight,10,1,20,F,S.DHARSANADEVI
+,999,0,2,0,5,5,5,2,0,0,1,17,Rajasic,Medium,5.3,40,15.32774712,Overweight,40,1,57,F,KIRUTHIKA.P
+,1000,-6,6,4,5,5,5,4,0,0,-7,19,Tamasic,Medium,5.4,50,18.45663652,Overweight,10,1,29,F,MEGANA.D
+,1001,0,4,0,3,0,0,0,0,0,2,3,Rajasic,Low,5.2,42,16.71909162,UnderWeight,40,1,43,F,KALAIVANI
+,1002,-4,8,-6,5,5,5,3,0,0,6,18,Rajasic,Medium,5.1,42,17.38117022,UnderWeight,40,1,58,F,ATHIRSHTA LAKSHMI.R
+,1003,0,8,-6,5,4,0,0,0,0,10,9,Rajasic,Low,4.5,43,22.85669866,Normal,40,3,49,F,REVATHI.D
+,1004,-4,8,-8,5,4,0,0,0,0,8,9,Rajasic,Low,5.2,50,19.9036805,Normal,40,3,49,F,A.Sasikala
+,1005,2,4,-6,5,5,5,4,0,0,10,19,Rajasic,Medium,4.8,48,22.42481337,Normal,40,3,59,F,S.Suganya
+,1006,4,6,-8,5,5,3,0,0,0,15,13,Sattvic,Medium,5,40,17.22225667,UnderWeight,70,1,83,F,K.Radha
+,1007,4,8,2,5,5,5,1,0,0,6,16,Rajasic,Medium,4.2,47,28.67935315,Overweight,40,1,56,F,M.Umal muthu basiriya
+,1008,-4,10,-4,5,5,4,0,0,0,5,14,Rajasic,Medium,4.7,38,18.51645975,Normal,40,3,54,F,P.Gayathri
+,1009,-2,6,-2,5,5,3,0,0,0,3,13,Rajasic,Medium,5.9,48,14.8425079,Overweight,40,1,53,F,R.Pavithra
+,1010,-4,-2,-8,5,5,0,0,0,0,3,10,Rajasic,Medium,5.5,35,12.45411123,Overweight,40,1,50,F,B.Suganya
+,1011,0,6,-8,5,5,1,0,0,0,11,11,Sattvic,Medium,5.1,57,23.58873102,Normal,70,3,81,F,A.M.Aswathy
+,1012,6,4,-2,5,5,0,0,0,0,10,10,Rajasic,Medium,5,42,18.0833695,Overweight,40,1,50,F,P.Nithya
+,1013,2,6,2,5,5,5,0,0,0,3,15,Rajasic,Medium,4.9,32,14.3459031,Overweight,40,1,55,F,M.Bhuvana
+,1014,-4,4,-6,5,5,3,0,0,0,4,13,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,53,F,P.Kanimozhi
+,1015,2,8,-2,5,5,5,0,0,0,8,15,Rajasic,Medium,5.2,49,19.50560689,Normal,40,3,55,F,H.GAYATHRI
+,1016,8,6,-4,5,5,4,0,0,0,15,14,Sattvic,Medium,5.4,39,14.39617648,Overweight,70,1,84,F,MEENA.S
+,1017,-8,6,-2,5,5,3,0,0,0,-3,13,Tamasic,Medium,5.2,40,15.9229444,Overweight,10,1,23,F,V.Jothimani
+,1018,0,6,-2,5,4,0,0,0,0,5,9,Rajasic,Low,4.9,42,18.82899781,Normal,40,3,49,F,RABIYA.B
+,1019,4,4,-6,5,5,1,0,0,0,12,11,Sattvic,Medium,5.1,46,19.03651977,Normal,70,3,81,F,RAMYA A.S
+,1020,2,4,-6,5,4,0,0,0,0,10,9,Rajasic,Low,4.6,42,21.36503958,Normal,40,3,49,F,S.Sharmathi
+,1021,-2,8,-6,5,5,4,0,0,0,8,14,Rajasic,Medium,4.9,40,17.93237887,UnderWeight,40,1,54,F,SUGANYA.S
+,1022,6,6,10,5,2,0,0,0,0,-1,7,Tamasic,Low,5.3,49,18.77649022,Normal,10,3,17,F,R.Divya
+,1023,-6,6,0,5,5,2,0,0,0,-3,12,Tamasic,Medium,4.9,45,20.17392623,Normal,10,3,22,F,S.Nithya
+,1024,0,8,0,5,5,2,0,0,0,4,12,Rajasic,Medium,4.6,46,23.39980525,Normal,40,3,52,F,M.Rilwana parveen
+,1025,2,6,-2,5,5,4,0,0,0,7,14,Rajasic,Medium,5.8,55,17.59854557,UnderWeight,40,1,54,F,Farhana.A
+,1026,0,10,-2,5,5,5,1,0,0,7,16,Rajasic,Medium,5.3,53,20.30926494,Normal,40,3,56,F,J.SUNITHA
+,1027,-8,-2,-8,5,3,0,0,0,0,-1,8,Tamasic,Low,5.2,61,24.28249022,Normal,10,3,18,F,SUDHA.K
+,1028,-6,4,-2,5,1,0,0,0,0,-2,6,Tamasic,Low,5.4,45,16.61097287,UnderWeight,10,1,16,F,SUGANYA. R
+,1029,-8,-4,-4,5,5,2,0,0,0,-6,12,Tamasic,Medium,5.9,45,13.91485116,Overweight,10,1,22,F,M.SUGANYA
+,1030,-4,2,0,5,5,4,0,0,0,-3,14,Tamasic,Medium,4.5,48,25.51445432,Overweight,10,1,24,F,MANIMEGALAI.K
+,1031,0,2,-2,5,5,3,0,0,0,3,13,Rajasic,Medium,5.4,52,19.19490198,Normal,40,3,53,F,SELVAKUMARI.G
+,1032,-4,4,-4,5,5,3,0,0,0,2,13,Rajasic,Medium,142,39,0.02081891,Overweight,40,1,53,F,D.KRISHNAVENI
+,1033,4,8,0,5,5,2,0,0,0,8,12,Rajasic,Medium,4.8,45,21.02326253,Normal,40,3,52,F,RAGA SINDHU.V
+,1034,0,4,2,5,5,5,3,0,0,0,18,Rajasic,Medium,4.8,48,22.42481337,Normal,40,3,58,F,N.RADHIKA
+,1035,0,-4,-6,5,2,0,0,0,0,4,7,Rajasic,Low,5.6,43,14.75918839,Overweight,40,1,47,F,K.ARCHANA
+,1036,0,4,-2,5,4,0,0,0,0,4,9,Rajasic,Low,5.4,40,14.76530921,Overweight,40,1,49,F,R.SAKTHIGOMATHI
+,1037,8,8,0,5,5,5,4,0,0,12,19,Sattvic,Medium,5.9,40,12.36875658,Overweight,70,1,89,F,R.PRIYA
+,1038,0,8,2,5,3,0,0,0,0,2,8,Rajasic,Low,5.1,36,14.89814591,Overweight,40,1,48,F,A.MOHANA PRIYA
+,1039,-6,4,-6,5,5,3,0,0,0,2,13,Rajasic,Medium,5.2,42,16.71909162,UnderWeight,40,1,53,F,N.SUMAIYA BANU
+,1040,-4,0,2,5,4,0,0,0,0,-6,9,Tamasic,Low,4.5,35,18.60428961,Normal,10,3,19,F,N.POOCHINDU
+,1041,-2,4,-4,5,2,0,0,0,0,4,7,Rajasic,Low,4.5,45,23.91980093,Normal,40,3,47,F,V.JEEVA
+,1042,4,10,-2,5,5,1,0,0,0,11,11,Sattvic,Medium,4.3,32,18.62872544,Normal,70,3,81,F,P.Saraswathi
+,1043,4,10,6,5,5,2,0,0,0,3,12,Rajasic,Medium,5.3,43,16.47732816,UnderWeight,40,1,52,F,P.KAVITHA
+,1044,-10,6,2,5,3,0,0,0,0,-9,8,Tamasic,Low,5.6,55,18.87803166,Normal,10,3,18,F,N.Ambiga
+,1045,-6,-2,4,5,5,4,0,0,0,-11,14,Tamasic,Medium,4.9,40,17.93237887,UnderWeight,10,1,24,F,A.NOORJAHAN
+,1046,-2,8,0,5,1,0,0,0,0,2,6,Rajasic,Low,4.9,48,21.51885464,Normal,40,3,46,F,L.KAVIPRIYA
+,1047,-2,4,6,5,4,0,0,0,0,-6,9,Tamasic,Low,5.2,40,15.9229444,Overweight,10,1,19,F,BABY.P
+,1048,0,10,-2,5,5,5,0,0,0,7,15,Rajasic,Medium,159,50,0.021288538,Overweight,40,1,55,F,M.ANANTHI
+,1049,4,6,-2,5,5,5,1,0,0,9,16,Rajasic,Medium,4.3,42,24.45020214,Normal,40,3,56,F,PAVITHRA.G
+,1050,-4,4,-6,5,3,0,0,0,0,4,8,Rajasic,Low,5.7,40,13.25196727,Overweight,40,1,48,F,A.DURGA
+,1051,0,8,0,5,2,0,0,0,0,4,7,Rajasic,Low,5.3,43,16.47732816,UnderWeight,40,1,47,F,RENUKA.S
+,1052,-2,10,2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.1,50,20.69186931,Normal,40,3,51,F,NITHYA K
+,1053,6,10,-4,5,5,1,0,0,0,15,11,Sattvic,Medium,5.2,37,14.72872357,Overweight,70,1,81,F,K.NITHYA
+,1054,2,8,6,5,5,5,1,0,0,0,16,Rajasic,Medium,5.3,45,17.24371551,UnderWeight,40,1,56,F,AKKILA BANU.M
+,1055,4,4,-2,5,5,1,0,0,0,8,11,Rajasic,Medium,4.8,48,22.42481337,Normal,40,3,51,F,R.VANJIKODI
+,1056,-4,-6,-8,5,2,0,0,0,0,1,7,Rajasic,Low,5.6,40,13.72947757,Overweight,40,1,47,F,R.AARTHI
+,1057,-2,6,0,5,2,0,0,0,0,1,7,Rajasic,Low,152,41,0.019101468,Overweight,40,1,47,F,R.SANDHIYA
+,1058,-2,4,0,5,4,0,0,0,0,0,9,Rajasic,Low,4.5,45,23.91980093,Normal,40,3,49,F,S.PADMA
+,1059,0,10,-4,5,5,1,0,0,0,9,11,Rajasic,Medium,5,44,18.94448233,Normal,40,3,51,F,M.JAYANTHI
+,1060,-2,2,0,5,3,0,0,0,0,-1,8,Tamasic,Low,5.8,48,15.35873068,Overweight,10,1,18,F,V.NATHIYA
+,1061,2,6,0,5,5,5,1,0,0,5,16,Rajasic,Medium,5.8,36,11.51904801,Overweight,40,1,56,F,U.SAMSIYA BEGAM
+,1062,0,2,-6,5,5,0,0,0,0,7,10,Rajasic,Medium,51,55,0.227610562,Overweight,40,1,50,F,NANDHINI
+,1063,2,10,4,5,5,2,0,0,0,3,12,Rajasic,Medium,4.6,40,20.34765674,Normal,40,3,52,F,K.KAVITHA
+,1064,0,8,0,5,5,2,0,0,0,4,12,Rajasic,Medium,5.5,53,18.85908271,Normal,40,3,52,F,P.CHANDRIKA
+,1065,0,6,2,5,5,0,0,0,0,1,10,Rajasic,Medium,4.3,39,22.70375913,Normal,40,3,50,F,RAGAVI.R
+,1066,0,8,4,5,5,5,1,0,0,0,16,Rajasic,Medium,5.1,40,16.55349545,UnderWeight,40,1,56,F,DHILSATH RAIYANA.C
+,1067,0,6,2,5,3,0,0,0,0,1,8,Rajasic,Low,4.8,37,17.28579364,UnderWeight,40,1,48,F,SARANYA K
+,1068,0,4,-2,5,5,3,0,0,0,4,13,Rajasic,Medium,5.2,54,21.49597494,Normal,40,3,53,F,DHANYA
+,1069,2,8,-4,5,2,0,0,0,0,10,7,Rajasic,Low,160,40,0.01681861,Overweight,40,1,47,F,S.REETHA
+,1070,2,10,-2,5,5,5,1,0,0,9,16,Rajasic,Medium,5.1,49,20.27803193,Normal,40,3,56,F,S.NASEEHA BEGAM
+,1071,6,2,4,5,5,5,4,0,0,3,19,Rajasic,Medium,4.9,46,20.6222357,Normal,40,3,59,F,C.SUBAITHA AKTHAR
+,1072,6,10,4,5,5,4,0,0,0,7,14,Rajasic,Medium,5.7,42,13.91456564,Overweight,40,1,54,F,T.J.RISHA
+,1073,-2,10,4,5,5,3,0,0,0,-1,13,Tamasic,Medium,152,41,0.019101468,Overweight,10,1,23,F,N.SUGANYA
+,1074,-2,8,2,5,4,0,0,0,0,0,9,Rajasic,Low,5.6,45,15.44566227,Overweight,40,1,49,F,N.INDHUMATHI
+,1075,-4,4,-4,5,4,0,0,0,0,2,9,Rajasic,Low,5.1,50,20.69186931,Normal,40,3,49,F,D.MALATHI
+,1076,-2,8,4,5,4,0,0,0,0,-2,9,Tamasic,Low,5.4,43,15.8727074,Overweight,10,1,19,F,MV.DIVYA
+,1077,2,6,0,5,5,5,1,0,0,5,16,Rajasic,Medium,5.4,43,15.8727074,Overweight,40,1,56,F,N.KEERTHANA
+,1078,-4,6,0,5,5,2,0,0,0,-1,12,Tamasic,Medium,4.7,42,20.46556077,Normal,10,3,22,F,M.SANGEETHA
+,1079,2,6,8,5,5,5,0,0,0,-3,15,Tamasic,Medium,5.5,46,16.36826047,UnderWeight,10,1,25,F,K.SUMITHRA
+,1080,0,4,-6,5,2,0,0,0,0,8,7,Rajasic,Low,4.5,48,25.51445432,Overweight,40,1,47,F,S.SATHYAPRIYA
+,1081,0,6,-2,5,5,5,1,0,0,5,16,Rajasic,Medium,5.5,45,16.01242872,UnderWeight,40,1,56,F,M.JAMMUNAPRAVIN
+,1082,-2,4,0,5,4,0,0,0,0,0,9,Rajasic,Low,5,37,15.93058742,Overweight,40,1,49,F,PUGALVASUKI
+,1083,-4,8,-2,5,1,0,0,0,0,2,6,Rajasic,Low,4.5,38,20.198943,Normal,40,3,46,F,V.LATHA MANI
+,1084,2,8,4,5,5,0,0,0,0,2,10,Rajasic,Medium,4.4,41,22.79547144,Normal,40,3,50,F,R.JAYANTHI
+,1085,4,2,-2,5,3,0,0,0,0,7,8,Rajasic,Low,5.9,53,16.38860247,UnderWeight,40,1,48,F,M. RIZWAN NISHA
+,1086,6,8,4,5,5,3,0,0,0,6,13,Rajasic,Medium,4.4,40,22.23948433,Normal,40,3,53,F,BHUVANESHWARI.V
+,1087,4,10,6,5,5,2,0,0,0,3,12,Rajasic,Medium,5.4,43,15.8727074,Overweight,40,1,52,F,S.VAITHEKEI
+,1088,4,2,4,5,5,4,0,0,0,1,14,Rajasic,Medium,4.9,48,21.51885464,Normal,40,3,54,F,S.PRIYA
+,1089,4,8,0,5,5,5,3,0,0,8,18,Rajasic,Medium,5.3,43,16.47732816,UnderWeight,40,1,58,F,B.CHITHRA
+,1090,-2,0,-4,5,5,3,0,0,0,2,13,Rajasic,Medium,5.6,46,15.78889921,Overweight,40,1,53,F,R.POORNIMA
+,1091,-4,10,4,5,5,0,0,0,0,-3,10,Tamasic,Medium,5.6,47,16.13213615,UnderWeight,10,1,20,F,D.ARCHANA
+,1092,-4,10,2,5,4,0,0,0,0,-1,9,Tamasic,Low,170,51.5,0.019181363,Overweight,10,1,19,F,B.VANITHA
+,1093,4,8,0,5,4,0,0,0,0,8,9,Rajasic,Low,4.5,42,22.32514753,Normal,40,3,49,F,M.SIVAGAMI
+,1094,0,-2,0,5,5,2,0,0,0,-1,12,Tamasic,Medium,5.7,44,14.577164,Overweight,10,1,22,F,CM.ANJU
+,1095,-4,8,2,5,2,0,0,0,0,-2,7,Tamasic,Low,4.5,38,20.198943,Normal,10,3,17,F,V.LATHA MANI
+,1096,6,10,-6,5,5,4,0,0,0,17,14,Sattvic,Medium,5.2,42,16.71909162,UnderWeight,70,1,84,F,M.K. Jishana nasiya
+,1097,-2,2,0,5,5,0,0,0,0,-1,10,Tamasic,Medium,5,45,19.37503875,Normal,10,3,20,F,MENAKA.S
+,1098,-2,2,-4,5,5,2,0,0,0,3,12,Rajasic,Medium,4.7,56,27.28741437,Overweight,40,1,52,F,J.KANCHANAMALA
+,1099,0,8,6,5,5,2,0,0,0,-2,12,Tamasic,Medium,5.8,48,15.35873068,Overweight,10,1,22,F,GUNAMBIKA.S
+,1100,-2,6,2,5,5,4,0,0,0,-1,14,Tamasic,Medium,5.2,48,19.10753328,Normal,10,3,24,F,M.SELVI
+,1101,-8,6,2,5,5,2,0,0,0,-7,12,Tamasic,Medium,4.5,32,17.00963621,UnderWeight,10,1,22,F,JEEVITHA M
+,1102,0,2,-6,5,5,3,0,0,0,7,13,Rajasic,Medium,4.7,50,24.36376283,Normal,40,3,53,F,SUGANYA.S
+,1103,4,10,4,5,5,5,2,0,0,5,17,Rajasic,Medium,5.4,42,15.50357467,Overweight,40,1,57,F,J.DAYANA
+,1104,4,6,4,5,5,5,2,0,0,3,17,Rajasic,Medium,4.8,43,20.08889531,Normal,40,3,57,F,R.MANIMEGALAI
+,1105,4,8,6,5,5,1,0,0,0,2,11,Rajasic,Medium,4.3,35,20.37516845,Normal,40,3,51,F,K.GEETHA
+,1106,0,2,-4,5,5,5,1,0,0,5,16,Rajasic,Medium,5.7,49,16.23365991,UnderWeight,40,1,56,F,A.SAMEEMA BANU
+,1107,2,10,-2,5,5,2,0,0,0,9,12,Rajasic,Medium,5.6,40,13.72947757,Overweight,40,1,52,F,M.PREMA
+,1108,-2,2,-4,5,5,2,0,0,0,3,12,Rajasic,Medium,152,41,0.019101468,Overweight,40,1,52,F,K.DEEPIKA
+,1109,0,10,2,5,5,3,0,0,0,3,13,Rajasic,Medium,5.3,47,18.01010287,Overweight,40,1,53,F,R.RANJITHA
+,1110,-8,-2,-4,5,4,0,0,0,0,-5,9,Tamasic,Low,7,80,17.57373129,UnderWeight,10,1,19,F,J.MUBEENA
+,1111,-2,4,0,5,2,0,0,0,0,0,7,Rajasic,Low,158,39,0.016815915,Overweight,40,1,47,F,N.ESWARI
+,1112,2,2,-4,5,5,5,3,0,0,7,18,Rajasic,Medium,5.2,40,15.9229444,Overweight,40,1,58,F,S.ASHA
+,1113,-2,4,-4,5,2,0,0,0,0,4,7,Rajasic,Low,4.1,43,27.53409565,Overweight,40,1,47,F,S.SRITHR
+,1114,6,8,0,5,2,0,0,0,0,10,7,Rajasic,Low,5.1,43,17.79500761,UnderWeight,40,1,47,F,"J,SOFIYA"
+,1115,6,10,8,5,5,5,4,0,0,3,19,Rajasic,Medium,5.2,45,17.91331245,UnderWeight,40,1,59,F,A.RAHMATH NISHA
+,1116,2,2,-4,5,5,5,0,0,0,7,15,Rajasic,Medium,4.9,40,17.93237887,UnderWeight,40,1,55,F,SUMATHI.R
+,1117,-4,4,0,5,5,0,0,0,0,-2,10,Tamasic,Medium,5.5,45,16.01242872,UnderWeight,10,1,20,F,s.gomathi
+,1118,-2,4,0,5,5,3,0,0,0,0,13,Rajasic,Medium,5.5,48,17.07992397,UnderWeight,40,1,53,F,SATHIYA SELVI V
+,1119,-4,0,0,5,4,0,0,0,0,-4,9,Tamasic,Low,4.5,45,23.91980093,Normal,10,3,19,F,P.NANDHINI
+,1120,-2,2,-2,5,5,1,0,0,0,1,11,Rajasic,Medium,5.1,58,24.0025684,Normal,40,3,51,F,INDHU.E
+,1121,0,2,2,5,5,5,1,0,0,-1,16,Tamasic,Medium,5.4,40,14.76530921,Overweight,10,1,26,F,M.REVATHI
+,1122,2,6,-2,5,5,5,3,0,0,7,18,Rajasic,Medium,5,35,15.06947458,Overweight,40,1,58,F,SHYLAJA.R
+,1123,10,10,10,5,3,0,0,0,0,5,8,Rajasic,Low,5.6,41,14.07271451,Overweight,40,1,48,F,A.YASODHA
+,1124,4,10,6,5,5,2,0,0,0,3,12,Rajasic,Medium,5.5,46,16.36826047,UnderWeight,40,1,52,F,K.GAYATHRI
+,1125,4,8,-6,5,5,1,0,0,0,14,11,Sattvic,Medium,5.9,48,14.8425079,Overweight,70,1,81,F,S.MATHEENABANU
+,1126,0,6,-8,5,5,2,0,0,0,11,12,Sattvic,Medium,5.6,35,12.01329288,Overweight,70,1,82,F,D.SANGEETHA
+,1127,4,8,0,5,5,3,0,0,0,8,13,Rajasic,Medium,5.8,47,15.03875712,Overweight,40,1,53,F,CHINJMAL SHAJAN
+,1128,-2,6,2,5,5,0,0,0,0,-1,10,Tamasic,Medium,152,41,0.019101468,Overweight,10,1,20,F,T.JEEVITHA
+,1129,2,4,-2,5,5,2,0,0,0,6,12,Rajasic,Medium,4.52,44,23.18173204,Normal,40,3,52,F,sS.NAGALAKSHMI
+,1130,4,8,0,5,5,5,2,0,0,8,17,Rajasic,Medium,5.8,40,12.79894223,Overweight,40,1,57,F,B.GAYATHRI
+,1131,-8,4,-6,5,4,0,0,0,0,0,9,Rajasic,Low,6.2,50,14.00092406,Overweight,40,1,49,F,VSUBASRI
+,1132,-4,-2,-6,5,3,0,0,0,0,1,8,Rajasic,Low,4.2,40,24.40796013,Normal,40,3,48,F,K.NASRIN BANU
+,1133,2,10,0,5,5,5,5,1,0,7,21,Rajasic,High,5.4,40,14.76530921,Overweight,40,1,61,F,DEEPIKA.V
+,1134,2,8,2,5,5,5,2,0,0,4,17,Rajasic,Medium,4.8,39,18.22016086,Overweight,40,1,57,F,"K,SATHYA"
+,1135,0,2,2,5,3,0,0,0,0,-1,8,Tamasic,Low,5.4,38,14.02704375,Overweight,10,1,18,F,a.bavatharani
+,1136,-2,2,4,5,5,1,0,0,0,-5,11,Tamasic,Medium,5.4,42,15.50357467,Overweight,10,1,21,F,RABIYA BANU A
+,1137,4,8,-6,5,5,3,0,0,0,14,13,Sattvic,Medium,5.4,45,16.61097287,UnderWeight,70,1,83,F,K.MONIKA
+,1138,0,8,0,5,5,1,0,0,0,4,11,Rajasic,Medium,50,5.1,0.021958377,Overweight,40,1,51,F,GAYATHRI.E
+,1139,-6,4,0,5,3,0,0,0,0,-4,8,Tamasic,Low,4.6,40,20.34765674,Normal,10,3,18,F,RANJITHA.R
+,1140,-2,6,0,5,5,5,0,0,0,1,15,Rajasic,Medium,5.9,43,13.29641333,Overweight,40,1,55,F,A.INDHU
+,1141,6,10,6,5,2,0,0,0,0,5,7,Rajasic,Low,4.5,100,53.15511317,Overweight,40,1,47,F,A.MANJU
+,1142,10,10,8,5,2,0,0,0,0,7,7,Rajasic,Low,5.6,65,22.31040106,Normal,40,3,47,F,A.JANAKI
+,1143,8,6,4,5,5,4,0,0,0,7,14,Rajasic,Medium,142,48,0.025623274,Overweight,40,1,54,F,M.SHRUTHI
+,1144,4,8,6,5,5,5,1,0,0,2,16,Rajasic,Medium,5.3,49,18.77649022,Normal,40,3,56,F,B.SRILEKHA
+,1145,-8,8,-4,5,3,0,0,0,0,0,8,Rajasic,Low,5,38,16.36114383,UnderWeight,40,1,48,F,P.BANUPRIYA
+,1146,-4,6,-6,5,5,1,0,0,0,5,11,Rajasic,Medium,5.54,48,16.83417287,UnderWeight,40,1,51,F,D.NIVETHITHA DAVI
+,1147,-4,6,-4,5,5,0,0,0,0,3,10,Rajasic,Medium,4.5,32,17.00963621,UnderWeight,40,1,50,F,T.REVATHI
+,1148,-2,4,0,5,5,1,0,0,0,0,11,Rajasic,Medium,5.3,40,15.32774712,Overweight,40,1,51,F,DEEPAMALA.P
+,1149,2,4,2,5,5,4,0,0,0,2,14,Rajasic,Medium,5.4,54,19.93316744,Normal,40,3,54,F,m.A.SAFOORA
+,1150,-2,8,-6,5,5,5,1,0,0,8,16,Rajasic,Medium,5,50,21.52782083,Normal,40,3,56,F,M.ARVIND PRIYA
+,1151,0,6,-8,5,5,4,0,0,0,11,14,Sattvic,Medium,4.8,38,17.75297725,UnderWeight,70,1,84,F,L.Therasadevakirubai
+,1152,-4,6,-10,5,5,2,0,0,0,9,12,Rajasic,Medium,5.6,50,17.16184697,UnderWeight,40,1,52,F,V.MEENA
+,1153,-2,4,-2,5,5,0,0,0,0,2,10,Rajasic,Medium,5.6,46,15.78889921,Overweight,40,1,50,F,BHUVANESHWARI M
+,1154,6,6,2,5,5,3,0,0,0,7,13,Rajasic,Medium,4.3,40,23.2859068,Normal,40,3,53,F,KASTHURI
+,1155,-4,6,-4,5,5,2,0,0,0,3,12,Rajasic,Medium,5.8,40,12.79894223,Overweight,40,1,52,F,R.SUGANYA
+,1156,6,10,4,5,5,2,0,0,0,7,12,Rajasic,Medium,5.2,40,15.9229444,Overweight,40,1,52,F,PIRTHEEBA
+,1157,-4,6,-6,5,4,0,0,0,0,5,9,Rajasic,Low,46,4.8,0.024417188,Overweight,40,1,49,F,MAHESWARI.R
+,1158,8,8,-4,5,5,3,0,0,0,16,13,Sattvic,Medium,4.9,43,19.27730729,Normal,70,3,83,F,S.MEHAR BANU
+,1159,0,10,0,5,4,0,0,0,0,5,9,Rajasic,Low,4.7,49,23.87648757,Normal,40,3,49,F,S.PUNITHA
+,1160,0,4,-6,5,4,0,0,0,0,8,9,Rajasic,Low,5,45,19.37503875,Normal,40,3,49,F,D.SATHIYA
+,1161,-2,8,2,5,5,0,0,0,0,0,10,Rajasic,Medium,5,39,16.79170025,UnderWeight,40,1,50,F,LAVANYA.R
+,1162,-2,8,0,5,4,0,0,0,0,2,9,Rajasic,Low,5.9,47,14.53328899,Overweight,40,1,49,F,J.SOFIYA BANU
+,1163,-2,8,-6,5,5,0,0,0,0,8,10,Rajasic,Medium,49,64,0.286918062,Overweight,40,1,50,F,NIVETHITHA.K
+,1164,4,10,6,5,5,5,0,0,0,3,15,Rajasic,Medium,4.2,35,21.35696511,Normal,40,3,55,F,ARTHI.R
+,1165,2,-2,-2,5,2,0,0,0,0,3,7,Rajasic,Low,5,40,17.22225667,UnderWeight,40,1,47,F,D.MALINI
+,1166,6,8,6,4,0,0,0,0,0,4,4,Rajasic,Low,50,50,0.215278208,Overweight,40,1,44,F,S.DHIVYA
+,1167,4,4,2,5,5,1,0,0,0,4,11,Rajasic,Medium,5.2,47,18.70945967,Normal,40,3,51,F,V.Pradeepa gayathri
+,1168,0,8,6,5,3,0,0,0,0,-2,8,Tamasic,Low,5.4,59,21.77883109,Normal,10,3,18,F,SANSHEELA PARVIN .A
+,1169,0,8,2,5,5,1,0,0,0,2,11,Rajasic,Medium,5.5,40,14.23326997,Overweight,40,1,51,F,RANJITHA.P
+,1170,-2,10,-4,5,5,2,0,0,0,7,12,Rajasic,Medium,5.7,55,18.221455,Overweight,40,1,52,F,SIVAKAMI.R
+,1171,-4,0,4,5,1,0,0,0,0,-8,6,Tamasic,Low,4.1,43,27.53409565,Overweight,10,1,16,F,S.SRITHA
+,1172,0,4,-4,5,3,0,0,0,0,6,8,Rajasic,Low,5.2,40,15.9229444,Overweight,40,1,48,F,B.BHURANESWARI
+,1173,2,10,6,5,5,5,0,0,0,1,15,Rajasic,Medium,5.2,41,16.32101801,UnderWeight,40,1,55,F,SHUKRUTHI.R
+,1174,2,8,2,5,5,2,0,0,0,4,12,Rajasic,Medium,5.4,40,14.76530921,Overweight,40,1,52,F,SATHIYA.R
+,1175,-8,10,-2,5,1,0,0,0,0,-1,6,Tamasic,Low,5,39,16.79170025,UnderWeight,10,1,16,F,LAVANYA.R
+,1176,-2,2,0,5,3,0,0,0,0,-1,8,Tamasic,Low,4.8,50,23.35918059,Normal,10,3,18,F,M.RAMLATH NEESS
+,1177,-4,4,6,5,5,0,0,0,0,-8,10,Tamasic,Medium,5.1,42,17.38117022,UnderWeight,10,1,20,F,P.SRIVIDHYA
+,1178,-2,6,-4,5,5,3,0,0,0,5,13,Rajasic,Medium,4.5,45,23.91980093,Normal,40,3,53,F,G.KALAISELVI
+,1179,4,10,2,5,0,0,0,0,0,7,5,Rajasic,Low,5.2,47,18.70945967,Normal,40,3,45,F,SHALINI.S
+,1180,6,6,-4,5,4,0,0,0,0,13,9,Sattvic,Low,5.1,45,18.62268238,Normal,70,3,79,F,S.PRIYA
+,1181,-2,6,-2,5,5,5,0,0,0,3,15,Rajasic,Medium,4.9,42,18.82899781,Normal,40,3,55,F,NANDHINI.R
+,1182,4,6,-6,5,5,0,0,0,0,13,10,Sattvic,Medium,5.3,45,17.24371551,UnderWeight,70,1,80,F,S.SASIKALA
+,1183,0,4,-4,5,5,0,0,0,0,6,10,Rajasic,Medium,5.2,44,17.51523884,UnderWeight,40,1,50,F,R.G.SUGANYA
+,1184,2,6,-6,5,5,3,0,0,0,11,13,Sattvic,Medium,5,40,17.22225667,UnderWeight,70,1,83,F,VINODHINI.S
+,1185,2,6,-6,5,2,0,0,0,0,11,7,Sattvic,Low,5.1,40,16.55349545,UnderWeight,70,1,77,F,R.SUMITHRA
+,1186,6,6,-4,5,5,0,0,0,0,13,10,Sattvic,Medium,5.2,49,19.50560689,Normal,70,3,80,F,S.SYEDRABIYAMA
+,1187,8,10,8,4,0,0,0,0,0,5,4,Rajasic,Low,5.7,42,13.91456564,Overweight,40,1,44,F,T.J.RISHA
+,1188,4,-2,-6,5,1,0,0,0,0,9,6,Rajasic,Low,5,56,24.11115933,Normal,40,3,46,F,S.PAPPATHI
+,1189,-2,10,-6,5,3,0,0,0,0,9,8,Rajasic,Low,5,50,21.52782083,Normal,40,3,48,F,R.ANURADHA
+,1190,0,4,-6,5,5,2,0,0,0,8,12,Rajasic,Medium,4.5,42,22.32514753,Normal,40,3,52,F,K.HEMALATHA
+,1191,-2,6,2,5,5,2,0,0,0,-1,12,Tamasic,Medium,4.8,64,29.89975116,Overweight,10,1,22,F,A.AKILA
+,1192,-2,4,-2,5,5,2,0,0,0,2,12,Rajasic,Medium,4.6,47,23.90849667,Normal,40,3,52,F,V.REVATHI

@@ -86,8 +86,3 @@ print(predict(model,predict))
 
 plot(x,y,main="Sales Based on Years VS Profit",abline(model),col="Red")
 
-
-
-
-
-

@@ -30,7 +30,6 @@ ppois(3,lambda,lower.tail = FALSE)
 
 lambda <- 12
 samples <- rpois(10, lambda)
-
 print(samples)
 
 

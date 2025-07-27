@@ -1,0 +1,16 @@
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.AssemblyReference.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache

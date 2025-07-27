@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanProgram", "PythagoreanProgram.csproj", "{DBEF31E5-8D4C-4EFE-92C2-7E8676B3587D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEF31E5-8D4C-4EFE-92C2-7E8676B3587D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEF31E5-8D4C-4EFE-92C2-7E8676B3587D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEF31E5-8D4C-4EFE-92C2-7E8676B3587D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEF31E5-8D4C-4EFE-92C2-7E8676B3587D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED27C024-3EFA-47F0-B460-EED7FDF37236}
+	EndGlobalSection
+EndGlobal

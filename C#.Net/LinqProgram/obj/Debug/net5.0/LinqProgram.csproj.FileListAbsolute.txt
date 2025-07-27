@@ -1,0 +1,16 @@
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.deps.json
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.runtimeconfig.json
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.runtimeconfig.dev.json
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\ref\LinqProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\bin\Debug\net5.0\LinqProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.csproj.AssemblyReference.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.AssemblyInfoInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.AssemblyInfo.cs
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.csproj.CoreCompileInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\ref\LinqProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\LinqProgram\obj\Debug\net5.0\LinqProgram.genruntimeconfig.cache

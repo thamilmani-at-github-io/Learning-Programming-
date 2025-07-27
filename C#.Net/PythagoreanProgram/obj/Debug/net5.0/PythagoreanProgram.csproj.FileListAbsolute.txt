@@ -1,0 +1,15 @@
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.deps.json
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.runtimeconfig.json
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.runtimeconfig.dev.json
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\ref\PythagoreanProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\bin\Debug\net5.0\PythagoreanProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.AssemblyInfoInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.AssemblyInfo.cs
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.csproj.CoreCompileInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\ref\PythagoreanProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\PythagoreanProgram\obj\Debug\net5.0\PythagoreanProgram.genruntimeconfig.cache

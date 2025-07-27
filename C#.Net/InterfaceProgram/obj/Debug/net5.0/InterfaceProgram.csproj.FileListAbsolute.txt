@@ -1,0 +1,15 @@
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.exe
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.deps.json
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.runtimeconfig.json
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.runtimeconfig.dev.json
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\ref\InterfaceProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\bin\Debug\net5.0\InterfaceProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.AssemblyInfoInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.AssemblyInfo.cs
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.csproj.CoreCompileInputs.cache
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\ref\InterfaceProgram.dll
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.pdb
+D:\ThamilMani\Learning-Programming-\C#.Net\InterfaceProgram\obj\Debug\net5.0\InterfaceProgram.genruntimeconfig.cache

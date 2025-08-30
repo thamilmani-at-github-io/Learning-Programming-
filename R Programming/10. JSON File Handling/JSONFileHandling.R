@@ -1,0 +1,27 @@
+getwd()
+setwd("D:/ThamilMani/Learning-Programming-/R Programming/10. JSON File Handling")
+getwd()
+
+library(jsonlite)
+#Tools -> Install Packages
+
+data <- fromJSON("gender.json")
+print(data)
+
+retval <- subset(data,data$Gender=="Female")
+print(retval)
+
+retval <- subset(data,data$Gender=="Male")
+print(retval)
+
+retval <- subset(data,data$Age>40 & data$Gender=="Male")
+print(retval)
+
+retval <- subset(data,data$Salary>600)
+print(retval)
+
+retval <- subset(data,data$Salary>600 & data$Basic>300 & data$DA<200)
+print(retval)
+
+retval <- data$Salary - (data$Basic + data$DA)
+print(retval)

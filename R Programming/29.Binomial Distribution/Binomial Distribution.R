@@ -2,6 +2,7 @@ x<-4
 y<-dbinom(x,10,0.5)
 print(y)
 
+
 #dbinom
 x<-0
 y0<-dbinom(x,4,0.5)
